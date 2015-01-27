@@ -1,5 +1,9 @@
 # Introduction
 
+
+
+![Berlin Reps](http://tiptoes.ca/wp-content/uploads/2015/01/15145416624_dcb5844afc_z.jpg "Berlin Reps")
+
 **Mozilla Reps** recognizes that our primary goals are best reached through the support, encouragement, and empowerment of community through mentorship. Mentoring is a process for the informal transmission of knowledge, made possible through regular and supportive interaction.
 
 We encourage mentors to be as open to learning from their mentees, as they are to teaching, for the benefit and growth of both individuals and the program as a whole.
