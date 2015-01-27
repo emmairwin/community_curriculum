@@ -3,7 +3,7 @@ The Reps Portal is the central location for all Reps activity, and there are man
 Below is a tour of the portal:
 
 ![Reps Portal](http://www.youtube.com/watch?v=l9b2A5ko9GI)
-
+[![Reps Portal Demo](http://img.youtube.com/vi/l9b2A5ko9GI/0.jpg)](http://www.youtube.com/watch?v=l9b2A5ko9GI)
 
 ## Discussion
 1.  What items are available via the Reps Dashboard for Mentors?  What different views are available for each?
