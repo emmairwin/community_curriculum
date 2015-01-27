@@ -1,9 +1,9 @@
 The Reps Portal is the central location for all Reps activity, and there are many great features that help Mentors in their day-to-day responsibilities.
 
-Below is a tour of the portal:
-
+Below is a link to a tutorial for Reps Portal. Please watch the entire demo.
 
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=l9b2A5ko9GI" frameborder="0" allowfullscreen></iframe>
+
 
 ## Discussion
 1.  What items are available via the Reps Dashboard for Mentors?  What different views are available for each?
