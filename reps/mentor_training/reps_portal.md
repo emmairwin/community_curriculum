@@ -1,8 +1,7 @@
 The Reps Portal is the central location for all Reps activity, and there are many great features that help Mentors in their day-to-day responsibilities.
 
-Below is a tour of the portal:
+Below is a link to a tutorial for Reps Portal. Please watch the entire demo, and return to this page to review discussion topics.
 
-![Reps Portal](http://www.youtube.com/watch?v=l9b2A5ko9GI)
 [![Reps Portal Demo](http://img.youtube.com/vi/l9b2A5ko9GI/0.jpg)](http://www.youtube.com/watch?v=l9b2A5ko9GI)
 
 ## Discussion
