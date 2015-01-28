@@ -19,7 +19,7 @@ There are five distinct steps for screening
 * Step 3: [Interview](https://wiki.mozilla.org/ReMo/SOPs/Mentoring/Screening#Step_3:_Interviewing_the_applicant) 
 * Step 4: [Decision Communication](https://wiki.mozilla.org/ReMo/SOPs/Mentoring/Screening#Step_4:_Communicating_Your_Decision) 
 * Step 5: [Formal Acceptence](https://wiki.mozilla.org/ReMo/SOPs/Mentoring/Screening#Formally_accepting_the_applicant_into_the_program) 
-* Step 6: [Orientation Period](file:///Users/emmairwin/github/community_cirriculum/reps/mentor_training/screening.md) 
+* Step 6: [Orientation Period](https://wiki.mozilla.org/Mentor_Orientation_Call) 
 
 # Discussion
 

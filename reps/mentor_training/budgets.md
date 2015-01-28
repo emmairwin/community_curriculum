@@ -18,7 +18,7 @@ Before we get started, I want to share this commonly communicated concern :
   It's understandable that as passionate and successful volunteers, there is a sense that  our work is somehow devalued, or our commitment questioned in the process of reviews.  It's important to communicate, that *reviews are not personal*.  
 
    ___
-  ![CodeReview](http://tiptoes.ca/wp-content/uploads/2015/01/3023382426_befba928b6_z.jpg "CodeReview")
+  ![CodeReview](http://i.giphy.com/uJy14yIR4NoPK.gif "CodeReview")![CodeReview](http://i.giphy.com/uJy14yIR4NoPK.gif "CodeReview")![CodeReview](http://i.giphy.com/uJy14yIR4NoPK.gif "CodeReview")
    
 
 > Reps is a project made of people, of leaders,whose actions can have incredible impact on Mozilla mission.  A budget review is not about trust, it's not about reputation, it's about ensuring a quality of impact on Mozilla's mission.  Think of it in terms of a Firefox code reviews.  No developer by-passes the QA process for submitting code,  new code goes through *the same exact* steps every time - to protect the quality and impact of the project.  
@@ -61,6 +61,7 @@ Please read through these links and review the discussion topics below.
 7. What is the program policy for lost reciepts?
 8. What long after an event must the Rep submit reciepts?
 9. What methods of payment does Reps use?
+10. What is the tolerance threshold for events going over budget?  
 
 
 
