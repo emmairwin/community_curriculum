@@ -1,16 +1,16 @@
 #Conflict Resolution
 
-![CodeReview](http://tiptoes.ca/wp-content/uploads/2015/01/5134136997_72716f5e7e_z1.jpg "CodeReview")
+![conflictresolution](http://tiptoes.ca/wp-content/uploads/2015/01/5134136997_72716f5e7e_z1.jpg "conflictresolution")
 
-This is a very big topic for any community, and Mozilla Reps is no different.  Understanding how, you as mentor, and community leader can help diffuse situations and lend to conflict will go a long way to improve community health.  
+This is a very big topic for any community, and Mozilla Reps is no different.  Understanding how, you as mentor, and community leader can help diffuse conflict and lend to resolution will go a long way to improve community health.  
 
-*Good news!*  YOu will be helping us build a 'Conflict Resolution' strategy for Mozilla Reps! Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and review these other community resources on the topic:
+**Good news!**  You will be helping us build a 'Conflict Resolution' strategy for Mozilla Reps! Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and review these other community resources on the topic:
 
 ### Resources
 
 1. [Open Street HOT Map Resolution ProcessS](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community/HOT_Resolution_Process)
 2. [Drupal - Conflict Resolution Policy and Processs](https://www.drupal.org/conflict-resolution)
-3. [Dealing with Disrespectt](http://www.dealingwithdisrespect.com/) 
+3. [Dealing with Disrespect](http://www.dealingwithdisrespect.com/) 
 4. [Stumptown Syndicate - Code of Conduct](https://github.com/christi3k/policies/blob/master/citizen_code_of_conduct.md)
 5. [Mozilla Uganda Community Conflict Resolution/Reconciliationn](https://docs.google.com/a/mozilla.com/document/d/1TZ9yGhrDYtYSoYBKPxG858oO7pgNWdBd0SIk1DuNNwA/edit)
 6. [Wikimedia Dispute Resolutionn](http://en.wikipedia.org/wiki/Wikipedia:Dispute_resolution)
