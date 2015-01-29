@@ -10,7 +10,7 @@ This is a very big topic for any community, and Mozilla Reps is no different.  U
 
 1. [Open Street HOT Map Resolution ProcessS](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community/HOT_Resolution_Process)
 2. [Drupal - Conflict Resolution Policy and Processs](https://www.drupal.org/conflict-resolution)
-3. [Dealing with Disrespectt](http://www.dealingwithdisrespect.com/) 
+3. [Dealing with Disrespect](http://www.dealingwithdisrespect.com/) 
 4. [Stumptown Syndicate - Code of Conduct](https://github.com/christi3k/policies/blob/master/citizen_code_of_conduct.md)
 5. [Mozilla Uganda Community Conflict Resolution/Reconciliationn](https://docs.google.com/a/mozilla.com/document/d/1TZ9yGhrDYtYSoYBKPxG858oO7pgNWdBd0SIk1DuNNwA/edit)
 6. [Wikimedia Dispute Resolutionn](http://en.wikipedia.org/wiki/Wikipedia:Dispute_resolution)
