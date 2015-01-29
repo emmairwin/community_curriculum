@@ -1,10 +1,10 @@
 #Conflict Resolution
 
-![CodeReview](http://tiptoes.ca/wp-content/uploads/2015/01/5134136997_72716f5e7e_z1.jpg "CodeReview")
+![conflictresolution](http://tiptoes.ca/wp-content/uploads/2015/01/5134136997_72716f5e7e_z1.jpg "conflictresolution")
 
-This is a very big topic for any community, and Mozilla Reps is no different.  Understanding how, you as mentor, and community leader can help diffuse situations and lend to conflict will go a long way to improve community health.  
+This is a very big topic for any community, and Mozilla Reps is no different.  Understanding how, you as mentor, and community leader can help diffuse conflict and lend to resolution will go a long way to improve community health.  
 
-*Good news!*  YOu will be helping us build a 'Conflict Resolution' strategy for Mozilla Reps! Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and review these other community resources on the topic:
+**Good news!**  YOu will be helping us build a 'Conflict Resolution' strategy for Mozilla Reps! Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and review these other community resources on the topic:
 
 ### Resources
 
