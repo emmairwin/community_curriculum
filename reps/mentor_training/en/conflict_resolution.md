@@ -4,7 +4,7 @@
 
 This is a very big topic for any community, and Mozilla Reps is no different.  Understanding how, you as mentor, and community leader can help diffuse conflict and lend to resolution will go a long way to improve community health.  
 
-**Good news!**  YOu will be helping us build a 'Conflict Resolution' strategy for Mozilla Reps! Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and review these other community resources on the topic:
+**Good news!**  You will be helping us build a 'Conflict Resolution' strategy for Mozilla Reps! Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and review these other community resources on the topic:
 
 ### Resources
 
