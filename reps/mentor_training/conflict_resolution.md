@@ -1,10 +1,10 @@
 #Conflict Resolution
 
-![CodeReview](http://tiptoes.ca/wp-content/uploads/2015/01/5134136997_72716f5e7e_z.jpg "CodeReview")
+![CodeReview](http://tiptoes.ca/wp-content/uploads/2015/01/5134136997_72716f5e7e_z1.jpg "CodeReview")
 
-This is a very big topic for any community, and Mozilla Reps is no different.  Understanding how,  you as mentor,  and community leader can help diffuse situations and escalate community conflict will help our over-all goals for community health.  
+This is a very big topic for any community, and Mozilla Reps is no different.  Understanding how, you as mentor, and community leader can help diffuse situations and lend to conflict will go a long way to improve community health.  
 
-Good news!  You will be helping us build a 'Conflict Resolution' strategy for Mozilla Reps! Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and review these other community resources on the topic:
+*Good news!*  YOu will be helping us build a 'Conflict Resolution' strategy for Mozilla Reps! Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and review these other community resources on the topic:
 
 ### Resources
 
@@ -19,7 +19,7 @@ Good news!  You will be helping us build a 'Conflict Resolution' strategy for Mo
 
 #Discussion
 
-Please answer these questions in the Discourse forum provided  (TODO: link to Conflict Resolution topic)
+Please answer these questions in the [Discourse forum]() provided.  We will compile your answers into an Conflict Resolution strategy.    (TODO: link to Conflict Resolution topic)
 
 1. If you were to create a list of 'best practices' for helping people resolve minor conflicts in the community what would those be?
 2. What does the conflict resolution process look like for a Rep?  For a non-Rep community member? For a Regional community?
