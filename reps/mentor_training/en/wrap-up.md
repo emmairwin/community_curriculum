@@ -15,3 +15,5 @@ Also know that you have the commitment of he entire Reps team, and of council to
 
 
 ![Thank You](http://blog.mozilla.org/mozillareps/files/2014/12/mozlove-500x400.png)
+
+Thank you, image credit:  ![woodleywonderworks](https://www.flickr.com/photos/wwworks/)
