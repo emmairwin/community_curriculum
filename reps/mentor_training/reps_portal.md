@@ -4,7 +4,7 @@ Below is a link to a tutorial for Reps Portal. Please watch the entire demo.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=l9b2A5ko9GI
 " target="_blank"><img src="http://img.youtube.com/vi/l9b2A5ko9GI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Reps Portal"  border="10" /></a>
 
 
 ## Discussion
