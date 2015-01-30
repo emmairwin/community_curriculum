@@ -4,7 +4,7 @@
 
 #Screening Applicants
 
-One of the most important tasks of the Mentor is to review new applicants to the Mozilla Reps program.  Before an applicant is assigned to a mentor, the Reps Community Manager has already completed initial screening.  For example applicants **must** have a Mozillians account, and have activity for 3 months prior to being assigned to a mentor.  
+One of the most important tasks of the Mentor is to review new applicants to the Mozilla Reps program.  Before an applicant is assigned to a mentor, the Reps Community Manager has already completed initial screening.  For example applicants **must** have a Mozillians account, and have activity for 6 months prior to being assigned to a mentor.  
 
 #Steps
 
