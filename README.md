@@ -1,4 +1,4 @@
-# COMMUNITY CIRRICULUM
+# COMMUNITY CURRICULUM
 
 A central place for development and collaborative efforts at Mozilla designed for community participation.
 
