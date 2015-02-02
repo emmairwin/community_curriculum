@@ -36,7 +36,7 @@ One of THE most helpful, meaningful, awesome, impact-ful, productive, WONDERFUL 
     * Ensure Events have detailed agendas
     * Watch over-bloating of catering or printing, and make suggestions for cutting back.
 
-Do you have another great question we should add here? [Help make this cirriculum better](https://github.com/emmairwin/community_cirriculum/blob/master/reps/mentor_training/budgets.md)
+Do you have another great question we should add here? [Help make this curriculum better](https://github.com/emmairwin/community_cirriculum/blob/master/reps/mentor_training/budgets.md)
 
 #The Ins and Outs of the Budget Process
 
