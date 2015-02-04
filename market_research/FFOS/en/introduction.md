@@ -8,6 +8,8 @@ The Fx OS team has embarked on many different initiatives and campaigns to bring
 
 We need to stop “flying blind” and start being much more data-driven when we think about how we market and ultimately grow Fx OS. To do this, *we need not only your help collecting data, but your very best storytelling and detective work to reveal the local community market.
 
+#Problem Statement
+
 
 
 
