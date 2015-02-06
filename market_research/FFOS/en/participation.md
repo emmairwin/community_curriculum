@@ -1,11 +1,11 @@
-# Participant Tasks
+# Market Research W
 
 
 ![FFOS](http://tiptoes.ca/wp-content/uploads/2015/02/9244994571_ee0051ab94_z.jpg "FFOS")
 
-### First Level Tasks
+### Critical Tasks
  
-* Monthly price collection of FFOS Devices in 8 Markets
+* Monthly price collection of FFOS Devices in 7 Markets
 * Monthly price collection of devices competing against Firefox OS devices
 * Monthly collection of pictures & videos of in market implementation : billboards, events, websites screenshots, promotions…
 
