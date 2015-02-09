@@ -1,5 +1,5 @@
 
-# First-Level Market Research Tasks
+# Data Collection
 
 ![tags](http://tiptoes.ca/wp-content/uploads/2015/02/sale-tags1.png)
 
@@ -36,11 +36,11 @@ If you do not have access to the web app, you can use this paper version.
 [TODO] how is this submitted?
 
 ## Tips & Tricks for Creative Reporting
-![creative](http://tiptoes.ca/wp-content/uploads/2015/02/5841002125_2e58e970b5_m1.jpg)
+![creativee](http://tiptoes.ca/wp-content/uploads/2015/02/5841002125_2e58e970b5_m1.jpg)
 
 Your research turns a foggy image of your local community into a vibrant and priceless work of art! This can be an incredibly fun and rewarding aspect of participation - stories can be revealed through words, images and even sound. 
 
-* Consider taking imgages of display order
+* Consider taking images of display order
 * Take photographs from outside the store, of signs and displays  
 * Take note of special offers, whether a price is discounted or full.
 * 
@@ -49,7 +49,7 @@ Your research turns a foggy image of your local community into a vibrant and pri
 
 ##Discussion
 
-Each of these discussion topics are shared in our [Discourse forum](), please respond to the thread and read what other participants have to say.
+Each of these discussion topics are shared in our [Discourse forumm](), please respond to the thread and read what other participants have to say.
 
 1. What types of prices might you encounter in market research?
 2. What type of 'human error' might result incorrect data, and how can we avoid it?  And what tips would you have to avoid it.
