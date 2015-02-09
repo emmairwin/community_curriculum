@@ -18,7 +18,7 @@ These are the tasks most crucial for the short-term success of FFOS Market Resea
 
 ![2](http://tiptoes.ca/wp-content/uploads/2015/02/3563420741_847725b086_m.jpg)
 
-[TODO] Description, is this a category of impact, how would you describe this next level?
+Qualitative Tasks
 
 * Retail staff testimonials
 * End user testimonials
