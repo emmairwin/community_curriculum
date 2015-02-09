@@ -1,5 +1,5 @@
 
-#Qualitative Research
+#Qualitative Researcher!
 ![Research](http://www.tehcute.com/pics/201107/Red-panda.jpg)
 
 The next set of tasks, are complimentary to the critical, monthly data research, and something to important to improving the vision of your local market for Mozilla. Ths next set of tasks is sometimes called ['Qualitative Data'](http://en.wikipedia.org/wiki/Qualitative_research)
