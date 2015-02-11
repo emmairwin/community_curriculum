@@ -8,7 +8,10 @@ Developers are creating the future by building services and apps for people all 
 
 ###Developer Relations Training Pilot
 
-[Description of Pilot for participants].   Initial participation will be by invitation.  You can [apply here](). Benefits of participation include 1:1 speaker-coaching, and funded-travel to an event.
+* Increase developer awareness and adoption of Mozilla products and the Open Web as a platform by:
+* Growing a base of high-quality volunteer speakers...
+* Supporting their efforts/goals with training, materials, mentor-ship, swag and travel funding...
+ In order to present timely, relevant technical material at regional developer events.  Initial participation will be by invitation.  You can [apply here](). Benefits of participation include 1:1 speaker-coaching, and funded-travel to an event.
 
 **This Community Education Course will prepare you for participation and success in this pilot**
 
