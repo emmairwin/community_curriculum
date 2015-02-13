@@ -15,14 +15,18 @@ Before we get started, I want to share this commonly communicated concern :
 
   ___
 
-  It's understandable that as passionate and successful volunteers, there is a sense that  our work is somehow devalued, or our commitment questioned in the process of reviews.  It's important to communicate, that *reviews are not personal*.  
+  It's understandable that as passionate and successful volunteers, we can feel sensitive when our budgets are questioned, and so it's super important to communicate, that *reviews are not personal, because they're not.   *.  
 
    ___
   ![CodeReview](http://i.giphy.com/uJy14yIR4NoPK.gif "CodeReview")
    
 
-> Reps is a project made of people, of leaders,whose actions can have incredible impact on Mozilla mission.  A budget review is not about trust, it's not about reputation, it's about ensuring a quality of impact on Mozilla's mission.  Think of it in terms of a Firefox code reviews.  No developer by-passes the QA process for submitting code,  new code goes through *the same exact* steps every time - to protect the quality and impact of the project.  
-Budget Review = Code Review
+> Reps is a project made of people, of leaders,whose actions can have incredible impact on Mozilla mission.  A budget review is not about trust, it's not about reputation, it's about ensuring a quality of impact on Mozilla's missionm and spreading our spending among as many activities as possible.
+
+Think of it in terms of a Firefox code reviews.  No developer by-passes the QA process for submitting code,  new code goes through *the same exact* steps every time - to protect the quality and impact of the project.  
+Budget Review = Code Review.  
+
+> Or simply think of how you treat your own money, our attitudes should be no different.
   ___
 
 # Budget Basics!
@@ -56,12 +60,15 @@ Please read through these links and review the discussion topics below.
 2. How many weeks prior to an event must a budget be receieved to avoid disqualification?
 3. What types of reimbursement are possible?  
 4. What is the budget policy regarding alcohol?
-5. Briefly describe the the reivew process for budgets totaling < $500 USD , and for those > $500 USD
+5. Briefly describe the the review process for budgets totaling < $500 USD , and for those > $500 USD
 6. How does the program handle over-payments?  For example, when a Rep has received payment for more than the event reciepts submitted?
 7. What is the program policy for lost reciepts?
 8. What long after an event must the Rep submit reciepts?
 9. What methods of payment does Reps use?
 10. What is the tolerance threshold for events going over budget?  
+11. What characteristics are likely to make a budget a challange for approval?
+12. If you turn down a budget, or if council turns down a budget, what types 'next steps' can be offered to a Rep?
+
 
 
 
