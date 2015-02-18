@@ -14,6 +14,10 @@ These are the tasks most crucial for the short-term success of FFOS Market Resea
 * Monthly price collection of devices competing against Firefox OS devices in your local market
 * Monthly collection of pictures & videos of in market implementation : billboards, events, websites screenshots, promotions…
 
+[TODO] Decide if we want to break this first-level into two (FFOS Phone, and Competitor)
+
+[TODO] Recognition: Badge + ?
+
 ### Second Level Tasks
 
 ![2](http://tiptoes.ca/wp-content/uploads/2015/02/3563420741_847725b086_m.jpg)
@@ -23,6 +27,7 @@ Qualitative Tasks
 * Retail staff testimonials
 * End user testimonials
 * Help selecting most relevant, important tech/industry local events for Firefox OS
+[TODO] Recognition: Badge + ?
 
 ### Third Level Tasks
 
@@ -35,11 +40,13 @@ Qualitative Tasks
 * Analysis of trends
 * evaluate popular tariffs, promotions, local usages
 * recommend tariff comparisons apps/websites, 
-
+[TODO] Recognition: Badge + ?
 
 ### Mentorship
 
 Impact Groups need mentors to scale the impact of Market Research, and to include as many visions as possible to the story of local communities.  If you are interested in stepping into the mentor role in this Impact group, and you've actively participated in the first two levels of participation - we want to talk to you about a bigger partnership with Market Research.  [TODO who do they ask?]
+
+[TODO] Recognition: Mentor Hoodie?
 
 ---
 

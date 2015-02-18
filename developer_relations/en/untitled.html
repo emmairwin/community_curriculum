@@ -1,0 +1,389 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Your Awesome Webpage created on Thu, Feb 5 2015 12:58 AM</title>
+    <style type="text/css">
+      .flip-container {
+        perspective: 1000;
+        margin-left:10px;
+        margin-bottom:10px;
+        float:left;
+      }
+             
+      .flip-container:hover .flipper, .flip-container.hover .flipper {
+        transform: rotateY(180deg);
+      }
+          
+      .flip-container, .front, .back {
+        width: 100px;
+        height: 120px;
+     
+      }  
+       
+      .flipper {
+        transition: 0.6s;
+        transform-style: preserve-3d;
+        
+        position: relative;
+      }
+      
+      .front, .back {
+        backface-visibility: hidden;
+        
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+          
+      .front {
+        z-index: 2;
+        /* for firefox 31 */
+        transform: rotateY(0deg);
+      }
+          
+      /* back, initially hidden pane */
+      .back {
+        transform: rotateY(180deg);
+      }
+      
+      .front{
+        background-color:#f00 ;
+        border-color:black;
+        border-style: solid;
+        border-color: #ff0000 #0000ff;
+      }
+      
+      .back{
+        background-color:Chocolate
+        background-repeat: no-repeat;
+        background-position: center;
+        border-style: solid;
+        border-color: #ff0000 #0000ff;
+        /* background-size: 100%; */
+      }
+      
+      #card1, #card9{
+         background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/8067520784_0b3f62cba9_q.jpg);
+      }
+      
+      #card2, #card19{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/3372925208_e1f2aae4e3_q.jpg);
+      }
+      
+     #card3, #card11{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/8300920648_d4a21bba59_q.jpg);
+      }
+   
+      #card4, #card24{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/5339239070_1b086ceb87_q.jpg);
+      }
+      
+      #card5, #card14{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/2573196546_0c3133104a_q.jpg);
+      }
+      #card6, #card12{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/6672148713_4e2ab31099_q.jpg)
+      }
+      #card7, #card13{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/15627289804_697f24b3ef_q.jpg)
+      }
+      #card8, #card17{
+         background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/2306902124_2a8020667e_q.jpg)
+      }
+      #card9, #card22{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/414012553_084353b4d0_q.jpg)
+      }
+      #card10, #card11{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/488056465_cbe8087afe_q.jpg)
+      }
+      #card15, #card20{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/7566970462_00c6999b01_q.jpg)
+      }
+      
+    #card16, #card21{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/7566970462_00c6999b01_q.jpg)
+      }   
+      
+      #card18, #card23{
+        background-image: url(http://tiptoes.ca/wp-content/uploads/2015/02/7566970462_00c6999b01_q.jpg)
+      }   
+      
+    </style>
+  </head>
+  <body> 
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card1" >
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+   <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card2" >
+              <!-- back content -->
+          </div>
+    </div>
+  </div>    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card3" >
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card4">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card5">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card6">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card7" >
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card8">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card9">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card10">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card11" >
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card12">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back"id="card13" >
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card14">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card15">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card16">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card17">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card18">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card19">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card20">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card21">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card22">
+              <!-- back content -->
+          </div>
+    </div>
+  </div> 
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card23">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+     
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+      <div class="flipper" >
+          <div class="front" >
+              <!-- front content -->
+          </div>
+          <div class="back" id="card24">
+              <!-- back content -->
+          </div>
+    </div>
+  </div>
+    
+  </body>
+</html>

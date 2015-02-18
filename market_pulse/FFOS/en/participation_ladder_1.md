@@ -11,8 +11,11 @@
 
 
 * Monthly price collection of FFOS Device
+[TODO]  Are we specfifying camera, processor, size?
 * Monthly price collection of devices competing against Firefox OS devices
+[TODO]  Shall we break this into those phones we know about, and those we don't?
 * Monthly collection of pictures & videos of in market implementation : billboards, events, websites screenshots, promotions…
+[TODO] Be clear if this will be in he first version of the web app.
 * Observations
 
 
@@ -28,6 +31,7 @@
 ## How are we collecting it?
 
 ### Web App
+[TODO] Need the final URL
 
 [TODO] screenshots + steps
 

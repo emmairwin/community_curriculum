@@ -10,7 +10,7 @@ We need to stop “flying blind” and start being much more data-driven when we
 
 ###Who are we?
 
-We are [TODO] .  We're as invested in your success and experience participating as we are in  the outcome of market research.  You can reach us at [TODO]
+We are [TODO] .  We're as invested in your success and experience participating as we are in  the outcome of market pluse.  You can reach us at [TODO ].  We might add here, how we will communicate - or that can come later.
 
 ###Who are you?
 
@@ -20,7 +20,7 @@ We're starting with a small group of people (2 -3 per region), interested in hel
 
 **Brazil, Mexico, India, Bangladesh, Philippines, Russia, Colombia**
 
-Is this you?  Here are some qualities we think would make a great market research detective:
+Is this you?  Here are some qualities we think would make a great market pulse detective:
 
 * **Interested in Market Research**:  There's a fantastic [Wikipedia Page](http://en.wikipedia.org/wiki/Market_research) on the subject!
 * **Analytical**:  You are logical,  notice patterns, contradictions, trends and  inconsistencies in many things, especially marketing and advertisement. Wikipedia, of course has a page on [Analytical Skill](http://en.wikipedia.org/wiki/Analytical_skill).
