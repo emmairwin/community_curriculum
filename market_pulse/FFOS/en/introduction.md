@@ -10,7 +10,7 @@ We need to stop “flying blind” and start being much more data-driven when we
 
 ###Who are we?
 
-We are [TODO] .  We're as invested in your success and experience participating as we are in  the outcome of market pluse.  You can reach us at [TODO ].  We might add here, how we will communicate - or that can come later.
+We are the Mobile Planning team at Mozilla.  We're as invested in your success and experience participating as we are in  the outcome of market pluse.  You can reach us at [TODO ].  We might add here, how we will communicate - or that can come later.
 
 ###Who are you?
 
