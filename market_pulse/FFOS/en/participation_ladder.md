@@ -3,7 +3,7 @@
 
 
 
-Ther are three levels of participation, ranging from our first set of most critical research needs, leading into deeper evaluations of market through storytelling, and outreach.  Each of these priorities have their own training module.
+There are three levels of participation, ranging from our first set of most critical research needs, leading into deeper evaluations of market through storytelling, and outreach.  Each of these priorities have their own training module.
 
 ### First-Level, Priority #1 Tasks
 ![one](http://tiptoes.ca/wp-content/uploads/2015/02/2893549851_ef5121f78b_m.jpg)
