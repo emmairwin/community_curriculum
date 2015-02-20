@@ -2,7 +2,7 @@
 
 ![FFOS](http://masterfirefoxos.mozilla.org/bespoke/m05-t05-p30-a05-b10.png "FFOS")
 
-###Welcome to this very special opportunity to help FFOS with Market Research! (alternative headlines: "Market Researchers unite! The Firefox OS team needs your help!" / "Do you have market research skills? Help Fx OS today!"
+###Welcome to this very special opportunity to help Firefox OS with market research! 
 
 The Fx OS team has embarked on many different initiatives and campaigns to bring Fx OS to market without always having sufficient understanding and knowledge of the reality on the ground, due to a lack of local market data. This local market data is extremely difficult to obtain, let alone, update regularly if you’re not actually on the ground. 
 In our efforts to be much more data-driven when we think about how we market and ultimately grow Fx OS, we are launching this Fx OS MarketPulse initiative. To this end, **we need not only your help collecting data, but your very best storytelling and detective work to have a better understanding of your local market.**
@@ -15,7 +15,7 @@ We are Mozilla's Market Research team. You can reach us at [TODO ].  (we should 
 
 ![Detective](http://tiptoes.ca/wp-content/uploads/2015/02/3028314931_53d4aa5fc2_z.jpg)
 
-We're starting with a small group of people (2 -3 per market), interested in helping Mozilla understand their local market for mobile.  The markets we'll be first focusing on are:
+We're starting with a small group of people (2 -3 per market), interested in helping Mozilla understand their local market for mobile.  The markets we'll be focusing on first are:
 
 **Brazil, Mexico, India, Bangladesh, Philippines, Russia, Colombia**
 
@@ -28,6 +28,7 @@ Is this you?  Here are some qualities we think would make a great market pulse d
 * **Commited to regular participation** in our [top three tasks](http://google.com) .
 
 **You will be one of the founding members of our new Market Research Impact Team!**
+An impact team is a group of Mozilla paid staff and volunteers working together, as a team, on a specific project or initiative. This team meets regularly (online and offline) and aims to deliver high impact on their project/initiative while driving participation. 
 
 *[TODISCUSS]  Do you need to be approved to participate in this course?  Is there an onboaring conversation before this?  Who has that conversation if so?*
 
