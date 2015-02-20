@@ -4,8 +4,8 @@
 
 ###Welcome to this very special opportunity to help Firefox OS with market research! 
 
-The Fx OS team has embarked on many different initiatives and campaigns to bring Fx OS to market without always having sufficient understanding and knowledge of the reality on the ground, due to a lack of local market data. This local market data is extremely difficult to obtain, let alone, update regularly if you’re not actually on the ground. 
-In our efforts to be much more data-driven when we think about how we market and ultimately grow Fx OS, we are launching this Fx OS Market Pulse challenge. To this end, **we need not only your help collecting data, but your very best storytelling and detective work to have a better understanding of your local market.**
+The Firefox OS team has embarked on many different initiatives and campaigns to bring Firefox OS to market without always having sufficient understanding and knowledge of the reality on the ground, due to a lack of local market data. This local market data is extremely difficult to obtain, let alone, update regularly if you’re not actually on the ground. 
+In our efforts to be much more data-driven when we think about how we market and ultimately grow Firefox OS, we are launching this Firefoxx OS Market Pulse challenge. To this end, **we need not only your help collecting data, but your very best storytelling and detective work to have a better understanding of your local market.**
 
 ###Who are we?
 
@@ -33,13 +33,13 @@ By participating in this initiative, **you will be one of the founding members o
 
 ###Who can participate?
 
-The Fx OS Market Pulse challenge is open to anyone interested in participating.
+The Firefox OS Market Pulse challenge is open to anyone interested in participating.
 
 detective image credit: [ollieolarete](https://www.flickr.com/photos/ollieolarte/)
 
 ###Benefits of Participation
 
-* opportunity to support and influence the growth of Fx OS in your market
+* opportunity to support and influence the growth of Firefox OS in your market
 * opportunity to learn more about the mobile industry in general and get coaching/mentoring on how to effectively collect/analyze market data
 * valuable research work experience to add to your CV
 * opportunity to be part of a global network of volunteer market researchers and to belong to a vibrant community
