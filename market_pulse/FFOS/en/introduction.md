@@ -4,19 +4,18 @@
 
 ###Welcome to this very special opportunity to help FFOS with Market Research!  
 
-The Fx OS team has embarked on many different initiatives and campaigns to bring Fx OS to market without having sufficient understanding and knowledge of the reality on the ground, due to a severe lack of local market data. This local market data is extremely difficult to obtain, let alone, update regularly if you’re not actually on the ground. 
-
-We need to stop “flying blind” and start being much more data-driven when we think about how we market and ultimately grow Fx OS. To do this, **we need not only your help collecting data, but your very best storytelling and detective work to reveal the local community market.**
+The Fx OS team has embarked on many different initiatives and campaigns to bring Fx OS to market without always having sufficient understanding and knowledge of the reality on the ground, due to a lack of local market data. This local market data is extremely difficult to obtain, let alone, update regularly if you’re not actually on the ground. 
+In our efforts to be much more data-driven when we think about how we market and ultimately grow Fx OS, we are launching this Fx OS MarketPulse initiative. To this end, **we need not only your help collecting data, but your very best storytelling and detective work to have a better understanding of your local market.**
 
 ###Who are we?
 
-We are the Mobile Planning team at Mozilla.  We're as invested in your success and experience participating as we are in  the outcome of market pluse.  You can reach us at [TODO ].  We might add here, how we will communicate - or that can come later.
+We are Mozilla's Market Research team. You can reach us at [TODO ].  (we should use irc, telegram group and email alias.
 
 ###Who are you?
 
 ![Detective](http://tiptoes.ca/wp-content/uploads/2015/02/3028314931_53d4aa5fc2_z.jpg)
 
-We're starting with a small group of people (2 -3 per region), interested in helping Mozilla understand their local market for mobile.  Starting with:
+We're starting with a small group of people (2 -3 per market), interested in helping Mozilla understand their local market for mobile.  The markets we'll be first focusing on are:
 
 **Brazil, Mexico, India, Bangladesh, Philippines, Russia, Colombia**
 
