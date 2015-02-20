@@ -14,8 +14,6 @@ These are the tasks most crucial for the short-term success of Firefox OS Market
 * Monthly price collection of devices competing against Firefox OS devices in your local market
 * Monthly collection of pictures & videos of in market implementation : billboards, events, websites screenshots, promotions…
 
-[TODO] Decide if we want to break this first-level into two (FFOS Phone, and Competitor)
-
 **Recognition:** Top contributors who have successfully collected accurate data for a minimum of 3 months will unlock a special "1st level task" badge which will be displayed on their Mozillians profile page. 
 
 ### Second Level Tasks
