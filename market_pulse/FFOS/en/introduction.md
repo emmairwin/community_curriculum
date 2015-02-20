@@ -27,10 +27,13 @@ Is this you?  Here are some qualities we think would make a great market pulse d
 * **Creative**: Market Research is like detective work, your ability to notice and communicate the small things, the overall picture, and to tell the story of your local market will be key to the project's understanding and overall strategy. 
 * **Commited to regular participation** in our [top three tasks](http://google.com) .
 
-**You will be one of the founding members of our new Market Research Impact Team!**
-An impact team is a group of Mozilla paid staff and volunteers working together, as a team, on a specific project or initiative. This team meets regularly (online and offline) and aims to deliver high impact on their project/initiative while driving participation. 
+###Market Research Impact Team
 
-*[TODISCUSS]  Do you need to be approved to participate in this course?  Is there an onboaring conversation before this?  Who has that conversation if so?*
+By participating in this initiative, **you will be one of the founding members of our new Market Research Impact Team**. An impact team is a group of Mozilla paid staff and volunteers with a shared set of skillsets and interests, working together, as a team, on a specific project or initiative. This team meets regularly (online and offline) and aims to deliver high impact on their project/initiative by helping more volunteers participate.  
+
+###Who can participate?
+
+The Fx OS Market Pulse challenge is open to anyone interested in participating.
 
 detective image credit: [ollieolarete](https://www.flickr.com/photos/ollieolarte/)
 
