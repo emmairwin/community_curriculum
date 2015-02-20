@@ -8,7 +8,7 @@ Ther are three levels of participation, ranging from our first set of most criti
 ### First-Level, Priority #1 Tasks
 ![one](http://tiptoes.ca/wp-content/uploads/2015/02/2893549851_ef5121f78b_m.jpg)
 
-These are the tasks most crucial for the short-term success of FFOS Market Research, and our Impact Group.
+These are the tasks most crucial for the short-term success of Firefox OS Market Research, and our Market Research Impact Team.
  
 * Monthly price collection of FFOS Devices in your local market
 * Monthly price collection of devices competing against Firefox OS devices in your local market
@@ -16,7 +16,7 @@ These are the tasks most crucial for the short-term success of FFOS Market Resea
 
 [TODO] Decide if we want to break this first-level into two (FFOS Phone, and Competitor)
 
-[TODO] Recognition: Badge + ?
+**Recognition : Top contributors who have successfully collected accurate data will unlock a special badge which will be displayed on their Mozillians profile page. 
 
 ### Second Level Tasks
 
