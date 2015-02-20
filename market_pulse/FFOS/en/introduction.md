@@ -29,7 +29,7 @@ Is this you?  Here are some qualities we think would make a great market pulse d
 
 ###Market Research Impact Team
 
-By participating in this initiative, **you will be one of the founding members of our new Market Research Impact Team**. An impact team is a group of Mozilla paid staff and volunteers with a shared set of skillsets and interests, working together, as a team, on a specific project or initiative. This team meets regularly (online and offline) and aims to deliver high impact on their project/initiative by helping more volunteers participate.  
+By participating in this initiative, **you will be one of the founding members of our new Market Research Impact Team**. An impact team is a group of Mozilla paid staff and volunteers with a shared set of skillsets and interests, working together, as a team, on a specific project or initiative. This team meets regularly online, defines goals and objectives on a quarterly basis and aims to deliver increase impact on their project/initiative by continuously helping more volunteers participate.  
 
 ###Who can participate?
 
