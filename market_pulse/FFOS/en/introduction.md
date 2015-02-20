@@ -1,4 +1,4 @@
-#Firefox OS Market Research
+#Firefox OS Market Pulse
 
 ![FFOS](http://masterfirefoxos.mozilla.org/bespoke/m05-t05-p30-a05-b10.png "FFOS")
 
