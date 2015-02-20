@@ -35,7 +35,13 @@ detective image credit: [ollieolarete](https://www.flickr.com/photos/ollieolarte
 
 ###Benefits of Participation
 
-[TODISCUSS]
+* opportunity to support and influence the growth of Fx OS in their market
+* opportunity to learn more about the mobile industry in general and get coaching/mentoring on how to effectively collect/analyze market data
+* valuable research work experience to add to your CV
+* opportunity to be part of a global network of volunteer market researchers and belong to a vibrant community
+* opportunity to increase mobile industry landscape knowledge and understanding of trends
+* prizes and rewards proportional to quantity/quality of data collected  (eg. badges, phones, prospect of internship at Mozilla etc…)
+
 
 
 
