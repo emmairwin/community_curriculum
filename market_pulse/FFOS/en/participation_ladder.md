@@ -16,7 +16,7 @@ These are the tasks most crucial for the short-term success of Firefox OS Market
 
 [TODO] Decide if we want to break this first-level into two (FFOS Phone, and Competitor)
 
-**Recognition : Top contributors who have successfully collected accurate data will unlock a special badge which will be displayed on their Mozillians profile page. 
+**Recognition:** Top contributors who have successfully collected accurate data for a minimum of 3 months will unlock a special "1st level task" badge which will be displayed on their Mozillians profile page. 
 
 ### Second Level Tasks
 
@@ -27,7 +27,8 @@ Qualitative Tasks
 * Retail staff testimonials
 * End user testimonials
 * Help selecting most relevant, important tech/industry local events for Firefox OS
-[TODO] Recognition: Badge + ?
+
+**Recognition:** Top contributors who have successfully collected accurate data for a period of 3 months will unlock a special "2nd level task" badge which will be displayed on their Mozillians profile page. They will also receive special Mozilla gear (eg. tshirt or accessory)
 
 ### Third Level Tasks
 
@@ -40,13 +41,13 @@ Qualitative Tasks
 * Analysis of trends
 * evaluate popular tariffs, promotions, local usages
 * recommend tariff comparisons apps/websites, 
-[TODO] Recognition: Badge + ?
+
+**Recognition:** Top contributors who have successfully collected accurate data for a period of 3 months will unlock a special "3rd level task" badge which will be displayed on their Mozillians profile page. They will also receive special Mozilla "premium" gear (eg. hoodies, backpack etc...)
 
 ### Mentorship
 
-Impact Groups need mentors to scale the impact of Market Research, and to include as many visions as possible to the story of local communities.  If you are interested in stepping into the mentor role in this Impact group, and you've actively participated in the first two levels of participation - we want to talk to you about a bigger partnership with Market Research.  [TODO who do they ask?]
+Impact Teams need mentors to scale the impact of Market Research, and to include as many visions as possible to the story of local communities.  If you are interested in stepping into the mentor role in this Impact Team, and you've actively participated in the first two levels of participation - we want to talk to you about a deeper collaboration partnership with Market Research.  For more info, please contact [add contect email]
 
-[TODO] Recognition: Mentor Hoodie?
 
 ---
 
