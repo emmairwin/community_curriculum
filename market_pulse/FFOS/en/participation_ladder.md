@@ -14,7 +14,7 @@ These are the tasks most crucial for the short-term success of Firefox OS Market
 * Monthly price collection of devices competing against Firefox OS devices in your local market
 * Monthly collection of pictures & videos of in market implementation : billboards, events, websites screenshots, promotions…
 
-**Recognition:** Top 3 contributors per market who have successfully collected accurate data for a minimum of 3 months will unlock a special "1st level task" badge which will be displayed on their Mozillians profile page. 
+**Recognition:** Top 3 contributors per market who have successfully collected accurate data for a minimum of 3 months will unlock a special "Data Collection" badge which will be displayed on their Mozillians profile page. 
 
 ### Second Level Tasks
 
@@ -26,7 +26,7 @@ Qualitative Tasks
 * End user testimonials
 * Help selecting most relevant, important tech/industry local events for Firefox OS
 
-**Recognition:** Top 3 contributors per market who have successfully collected accurate data for a period of 3 months will unlock a special "2nd level task" badge which will be displayed on their Mozillians profile page. They will also receive special Mozilla gear (eg. tshirt or accessory)
+**Recognition:** Top 3 contributors per market who have successfully collected accurate data for a period of 3 months will unlock a special "Qualitative Researcher" badge which will be displayed on their Mozillians profile page. They will also receive special Mozilla gear (eg. tshirt or accessory)
 
 ### Third Level Tasks
 
@@ -40,7 +40,7 @@ Qualitative Tasks
 * evaluate popular tariffs, promotions, local usages
 * recommend tariff comparisons apps/websites, 
 
-**Recognition:** Top 3 contributors per market who have successfully collected accurate data for a period of 3 months will unlock a special "3rd level task" badge which will be displayed on their Mozillians profile page. They will also receive special Mozilla "premium" gear (eg. hoodies, backpack etc...)
+**Recognition:** Top 3 contributors per market who have successfully collected accurate data for a period of 3 months will unlock a special "Super Researcher" badge which will be displayed on their Mozillians profile page. They will also receive special Mozilla "premium" gear (eg. hoodies, backpack etc...)
 
 ### Mentorship
 
