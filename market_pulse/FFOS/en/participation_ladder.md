@@ -5,20 +5,33 @@
 
 There are three levels of participation, ranging from our first set of most critical research needs, leading into deeper evaluations of market through storytelling, and outreach.  Each of these priorities have their own training module.
 
-### First-Level, Priority #1 Tasks
+### First-Level, Priority #1 Task
 ![one](http://tiptoes.ca/wp-content/uploads/2015/02/2893549851_ef5121f78b_m.jpg)
 
-These are the tasks most crucial for the short-term success of Firefox OS Market Research, and our Market Research Impact Team.
- 
-* Monthly price collection of FFOS Devices in your local market
-* Monthly price collection of devices competing against Firefox OS devices in your local market
-* Monthly collection of pictures & videos of in market implementation : billboards, events, websites screenshots, promotions…
+Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for FFOS.  The [Market Pulse Web App](https://marketpulse.mozilla.community/activities/) tool will make it easy to collect FFOS data for:
 
-**Recognition:** Top 3 contributors per market who have successfully collected accurate data for a minimum of 3 months will unlock a special "Data Collection" badge which will be displayed on their Mozillians profile page. 
+* Web Stores
+* Individual Prices
+* Prices Associated with Plans
 
-### Second Level Tasks
+
+**Recognition:** Top 3 contributors per market who have successfully collected, and verified accurate data for a minimum of 3 months will unlock a special "FFOS Data Collection" badge which will be displayed on their Mozillians profile page. 
+
+### Second Level Task
 
 ![2](http://tiptoes.ca/wp-content/uploads/2015/02/3563420741_847725b086_m.jpg)
+
+*In addition to data collection for FFOS, we'll need your help collecting pricing of FFOS competitiors.
+
+
+* Web Stores
+* Individual Prices
+* Prices Associated with Plans
+* Bonus: Display Photos
+
+### Third Level Tasks
+
+![3](http://tiptoes.ca/wp-content/uploads/2015/02/4802869688_cdc82146a0_m.jpg)
 
 Qualitative Tasks
 
@@ -28,9 +41,9 @@ Qualitative Tasks
 
 **Recognition:** Top 3 contributors per market who have successfully collected accurate data for a period of 3 months will unlock a special "Qualitative Researcher" badge which will be displayed on their Mozillians profile page. They will also receive special Mozilla gear (eg. tshirt or accessory)
 
-### Third Level Tasks
+### Fourth Level Tasks
 
-![3](http://tiptoes.ca/wp-content/uploads/2015/02/4802869688_cdc82146a0_m.jpg)
+![4](http://tiptoes.ca/wp-content/uploads/2015/02/4119973735_af899a27e9_q.jpg)
 
 [TODO] Description, is this a category of impact, how would you describe this next level?
 
