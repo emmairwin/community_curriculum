@@ -21,7 +21,7 @@ Most critical for the short-term success of Firefox OS Market Research, and our 
 
 ![2](http://tiptoes.ca/wp-content/uploads/2015/02/3563420741_847725b086_m.jpg)
 
-*In addition to data collection for FFOS, we'll need your help collecting pricing of FFOS competitiors.
+Leveling-up our data collection, a new activity will be added to the Market Pulse Web App for easy collection pricing for FFOS competition phones.
 
 
 * Web Stores

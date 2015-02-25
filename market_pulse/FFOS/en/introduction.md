@@ -1,4 +1,4 @@
-#Firefox OS Market Pulse Challenge
+![Market Research](https://marketpulse.mozilla.community/static/img/marketpulse.svg)
 
 ![FFOS](http://masterfirefoxos.mozilla.org/bespoke/m05-t05-p30-a05-b10.png "FFOS")
 
