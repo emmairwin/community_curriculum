@@ -5,7 +5,7 @@
 
 There are three levels of participation, ranging from our first set of most critical research needs, leading into deeper evaluations of market through storytelling, and outreach.  Each of these priorities have their own training module.
 
-### First-Level, Priority #1 Task
+### First-Level, Priority #1 Activity
 ![one](http://tiptoes.ca/wp-content/uploads/2015/02/2893549851_ef5121f78b_m.jpg)
 
 Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for FFOS.  The [Market Pulse Web App](https://marketpulse.mozilla.community/activities/) tool will make it easy to collect FFOS data for:
@@ -17,7 +17,7 @@ Most critical for the short-term success of Firefox OS Market Research, and our 
 
 **Recognition:** Top 3 contributors per market who have successfully collected, and verified accurate data for a minimum of 3 months will unlock a special "FFOS Data Collection" badge which will be displayed on their Mozillians profile page. 
 
-### Second Level Task
+### Second Level Activity
 
 ![2](http://tiptoes.ca/wp-content/uploads/2015/02/3563420741_847725b086_m.jpg)
 
@@ -29,11 +29,11 @@ Leveling-up our data collection, a new activity will be added to the Market Puls
 * Prices Associated with Plans
 * Bonus: Display Photos
 
-### Third Level Tasks
+### Third Level Activity
 
 ![3](http://tiptoes.ca/wp-content/uploads/2015/02/4802869688_cdc82146a0_m.jpg)
 
-Qualitative Tasks
+Qualitative Activity
 
 * Retail staff testimonials
 * End user testimonials
@@ -41,7 +41,7 @@ Qualitative Tasks
 
 **Recognition:** Top 3 contributors per market who have successfully collected accurate data for a period of 3 months will unlock a special "Qualitative Researcher" badge which will be displayed on their Mozillians profile page. They will also receive special Mozilla gear (eg. tshirt or accessory)
 
-### Fourth Level Tasks
+### Fourth Level Activity
 
 ![4](http://tiptoes.ca/wp-content/uploads/2015/02/4119973735_af899a27e9_q.jpg)
 
