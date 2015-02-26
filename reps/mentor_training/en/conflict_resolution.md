@@ -15,6 +15,7 @@ This is a very big topic for any community, and Mozilla Reps is no different.  U
 5. [Mozilla Uganda Community Conflict Resolution/Reconciliationn](https://docs.google.com/a/mozilla.com/document/d/1TZ9yGhrDYtYSoYBKPxG858oO7pgNWdBd0SIk1DuNNwA/edit)
 6. [Wikimedia Dispute Resolutionn](http://en.wikipedia.org/wiki/Wikipedia:Dispute_resolution)
 7. [Diversity Inclusion Core Engagement (DICE) Workshopp](https://github.com/lsblakk/dice-workshop/blob/master/materials/workshop_format.md)
+8. [Twitter Open Source - Code of Conduct](https://engineering.twitter.com/opensource/code-of-conduct)
 
 
 #Discussion

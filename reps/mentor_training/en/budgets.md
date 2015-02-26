@@ -66,7 +66,7 @@ Please read through these links and review the discussion topics below.
 8. What long after an event must the Rep submit reciepts?
 9. What methods of payment does Reps use?
 10. What is the tolerance threshold for events going over budget?  
-11. What characteristics are likely to make a budget a challange for approval?
+11. [What characteristics are likely to make a budget a challange for approval?](https://discourse.mozilla-community.org/t/mentor-training-budgets/1724?u=emma_irwin)
 12. If you turn down a budget, or if council turns down a budget, what types 'next steps' can be offered to a Rep?
 
 

@@ -12,5 +12,10 @@ Being a Mozilla Reps mentor also requires a familiarity with different tools and
 
 # About This Course
 
-This course covers important information, and training needed to successfully onboard as a Mozilla Rep Mentor.  Please read each section, and complete associated tasks.  On completion please use the [form provided](https://www.google.com) to apply for your mentor badge.  
+This course covers important information, and training needed to successfully onboard as a Mozilla Rep Mentor.  Please read each section, and complete associated tasks.  You will recieve a mentor badge (physical and digital) for your participation!
+
+# Discussion
+
+1. [What positive experience have you experienced from mentorship?](https://discourse.mozilla-community.org/t/mentor-training-introduction/1723/2?u=emma_irwin)
+2. [How is mentorship different than management?](https://discourse.mozilla-community.org/t/mentor-training-introduction/1723/3?u=emma_irwin)
 
