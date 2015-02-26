@@ -11,6 +11,7 @@ We offer you this new Mozilla Reps Mentor Badge in recognition of your new role,
 
 Also know that you have the commitment of he entire Reps team, and of council to help you. To empower you, to listen and help you grow even more as a valued member of the Mozilla Reps Mentor community.  Please reach out to any one of us, at any time, with questions, concerns or questions. 
 
+Thank you [Elio Qoshi](https://twitter.com/elioqoshi)
 
 ![Thank You](http://tiptoes.ca/wp-content/uploads/2015/02/Digital-copy.png)
 
