@@ -41,9 +41,9 @@ Although not specifically communication-related, one of the most important thing
 #Discussion
 
 1. What do you think matters most, when selecting communication tools with your mentee?
-2. Think about a positive experience asking for help, advice or feedback in the Mozilla community.  What about that experience can lend to your new role as a mentor?
-3. Try to recall a time where you wanted to reach out to your mentor, council or someone else on the project.  What do you think made that so difficult?  How can you help your mentee overcome similar chllanges?
-4. Understanding that everyone is different, and how you and your mentee communicate will be unique to your partnership - how can you ensure the conversation is not one-way(not just you talking)?
+2. [Think about a positive experience asking for help, advice or feedback in the Mozilla community.  What about that experience can lend to your new role as a mentor?](https://discourse.mozilla-community.org/t/mentor-training-communication/1725/2?u=emma_irwin)
+3. [Try to recall a time where you wanted to reach out to your mentor, council or someone else on the project.  What do you think made that so difficult?  How can you help your mentee overcome similar challanges?](https://discourse.mozilla-community.org/t/mentor-training-communication/1725/3?u=emma_irwin)
+4. [Understanding that everyone is different, and how you and your mentee communicate will be unique to your partnership - how can you ensure the conversation is not one-way(not just you talking)?](https://discourse.mozilla-community.org/t/mentor-training-communication/1725/4?u=emma_irwin)
 
 
 

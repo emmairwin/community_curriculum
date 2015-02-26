@@ -12,4 +12,4 @@ alt="Reps Portal"  border="10" /></a>
 2.  How can you easily determine which items are most in need of your attention?
 3.  The Dashboard provides easy ways to access your mentee's activity and availability, what are the 'status-types' for Reps?
 4.  You can use the mail your mentees using the Dashboard, what type of communication do you think this would be good for?
-5.  The 'Activities View' provides mentors with an easy overview of their mentees activities.  What action items might you give yourself when a Rep appears to have been inactive for a longer period of time?
+5.  [The 'Activities View' provides mentors with an easy overview of their mentees activities.  What action items might you give yourself when a Rep appears to have been inactive for a longer period of time?](https://discourse.mozilla-community.org/t/reps-portal/1727/2?u=emma_irwin)
