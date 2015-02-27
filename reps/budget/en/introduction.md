@@ -30,8 +30,8 @@ Using the [Reps Budget Form](https://bugzilla.mozilla.org/form.reps.budget), sub
 There is a minimum amount of information required, but there are best practices for what information lends to greater overall success of your budget. There are best practices we'll get into, including how to manage larger(multi-person/one event) budget requests.
 
 There are two steps to budget review.
-1.  Mentor Review
-2.  Council Review
+1. Mentor Review
+2. Council Review
 
 Council reviews a large number of budgets every month, and so being responsive to questioning is important, especially because council voting is on an automated timeline.
 
