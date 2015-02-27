@@ -7,11 +7,11 @@ The best budgets reflect thoughtful consideration of metrics, participation and 
 
 In 2015 Mozilla Reps, and Impact teams will be encouraged to focused more directly on project goals.  And metrics that demonstrate impact on a project or product goal will be most compelling for budget support. Here are some examples.  There are two types of metrics you should consider when planning an event:
 
-### Impact Metrics
+> ### Impact Metrics
 
-1.  FFOS Market Pulse goals are collection of FFOS phone prices in local markets.
-2.  Webmaker has quarterly goals related to 'Webmaker Club' initiatives
-3.  Marketplace requires more mobile-friendly websites.
+> 1.  FFOS Market Pulse goals are collection of FFOS phone prices in local markets.
+> 2.  Webmaker has quarterly goals related to 'Webmaker Club' initiatives
+> 3.  Marketplace requires more mobile-friendly websites.
 
 So budgets in support of, perhaps, helping purchase memory sticks for a Webmaker Club,  an event where participants scan the web for mobile-friendly news- sites would also be more compelling for support.  
 
