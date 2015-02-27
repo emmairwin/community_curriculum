@@ -2,6 +2,7 @@
 
 
 *[Ordering Swag](https://wiki.mozilla.org/ReMo/SOPs/Ordering_Swag#Step_3:_order_swag)
+*[Swag Requests](https://wiki.mozilla.org/ReMo/SOPs/Swag_Requests)
 
 
 
