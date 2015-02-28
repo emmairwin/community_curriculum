@@ -8,7 +8,10 @@ Most critical for the short-term success of Firefox OS Market Research, and our 
 * Web Stores
 * Local Stores
 
-## What data are we collecting?
+## Web App
+We'll be using the [Market Pulse Web App](https://marketpulse.mozilla.community) to record data. It will also help you track activities and contributions over time.  For this first activity we'll be collecting the following information:
+
+![webapp](http://tiptoes.ca/wp-content/uploads/2015/02/2015-02-28_1308.png)
 
 #### Store Name
 Full store name (no abbreviations)
@@ -25,16 +28,16 @@ Phone device brand (will will provide you with a list of those available)
 #### Whether or not the phone is in stock
 This is a verbal confirmation from store owners, can is recorded as true or false in the web app.
 
-* Price 
-The price of the device.
+#### Price 
+The price of the device
 
-* Comments
+### Currency
+Price currency
+
+### Comments
 A very important part of data collection are all those observations that occur to you as you record information. We will get into more detail about best practices next.
 
 ## Market Pulse Web App
-
-### Web App
-Url [https://marketpulse.mozilla.community](https://marketpulse.mozilla.community)
 
 ### Spreadsheet 
 TODO: is this still an option?  
