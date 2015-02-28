@@ -10,46 +10,39 @@ Most critical for the short-term success of Firefox OS Market Research, and our 
 
 ## What data are we collecting?
 
+### Store Name
+Full store name (no abbreviations)
 
-* Monthly price collection of FFOS Device
-[TODO]  Are we specfifying camera, processor, size?
-* Monthly price collection of devices competing against Firefox OS devices
-[TODO]  Shall we break this into those phones we know about, and those we don't?
-* Monthly collection of pictures & videos of in market implementation : billboards, events, websites screenshots, promotions…
-[TODO] Be clear if this will be in he first version of the web app.
-* Observations
+### Online Store (yes/no)
+Whether or not this price is being recorded from an online store
 
+## Store Location
+Using Open Street Map & your device location will record the store's location.
 
-#### Example Observations
+## Device Type
+Phone device brand (will will provide you with a list of those available)
 
-> * "Made in India Tag"
-> * Celebrity Endorsements are popular for both Android and Nokia. [Here is one for Android](https://www.youtube.com/watch?v=RKii_YzBW6E), and one for [SRK Nokia](https://www.youtube.com/watch?v=2M_kQdiLhI8).
-> * In Summary India is being proliferated with various Android OEMS (Samsung,  Xuaemi, Lava, Spice, Intex, Karbonn, Micormax, Cellkon ) and Nokia.  
-> * There is still a market for low cost smart phones, however It looks India’s sweet spot is going to be around $70-$100 for a decent smart phone with 4-5 star ratings. 
-> Last but not least.. Really… Here is a Sandal/Shoes endorsement from a celebrity.. You got [to see it](https://www.youtube.com/watch?v=Yi_2e1HDjwU) to believe it.
+## Whether or not the phone is in stock
+This is a verbal confirmation from store owners, can is recorded as true or false in the web app.
 
+* Price 
+The price of the device.
 
-## How are we collecting it?
+* Comments
+A very important part of data collection are all those observations that occur to you as you record information. We will get into more detail about best practices next.
+
+## Market Pulse Web App
 
 ### Web App
-[TODO] Need the final URL
-
-[TODO] screenshots + steps
+Url [https://marketpulse.mozilla.community](https://marketpulse.mozilla.community)
 
 ### Spreadsheet 
-If you do not have access to the web app, you can use this paper version.
-[TODO] how is this submitted?
+TODO: is this still an option?  
 
 ## Tips & Tricks for Creative Reporting
 ![creativee](http://tiptoes.ca/wp-content/uploads/2015/02/5841002125_2e58e970b5_m1.jpg)
 
 Your research turns a foggy image of your local community into a vibrant and priceless work of art! This can be an incredibly fun and rewarding aspect of participation - stories can be revealed through words, images and even sound. 
-
-* Consider taking images of display order
-* Take photographs from outside the store, of signs and displays  
-* Take note of special offers, whether a price is discounted or full.
-* 
-
 
 
 ##Discussion
