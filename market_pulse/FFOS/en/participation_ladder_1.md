@@ -1,11 +1,12 @@
 
-# Data Collector!
+# FireFox OS Data Collector!
 
 ![tags](http://tiptoes.ca/wp-content/uploads/2015/02/sale-tags1.png)
 
-[TODO]  Description
+Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for FFOS. The [Market Pulse Web App](https://marketpulse.mozilla.community/] web app will make it easy to collect FFOS data for:
 
-
+* Web Stores
+* Local Stores
 
 ## What data are we collecting?
 
