@@ -9,9 +9,10 @@ Most critical for the short-term success of Firefox OS Market Research, and our 
 * Local Stores
 
 ## Web App
-We'll be using the [Market Pulse Web App](https://marketpulse.mozilla.community) to record data. It will also help you track activities and contributions over time.  For this first activity we'll be collecting the following information:
 
 ![webapp](http://tiptoes.ca/wp-content/uploads/2015/02/2015-02-28_1308.png)
+
+We'll be using the [Market Pulse Web App](https://marketpulse.mozilla.community) to record data. It will also help you track activities and contributions over time.  For this first activity we'll be collecting the following information:
 
 #### Store Name
 Full store name (no abbreviations)
