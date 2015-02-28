@@ -1,23 +1,33 @@
 # Market Research Participation Ladder
 
 
+There are three levels of participation, ranging from our first set of most critical research needs, leading into deeper evaluations of market through storytelling, and outreach.  Each of these priorities have their own training module, and each will be released as an 'activity' in coming months.  Currently we are focused on the first activity. 
 
+**You can [sign-up for notification of new activities here](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form) **
 
-There are three levels of participation, ranging from our first set of most critical research needs, leading into deeper evaluations of market through storytelling, and outreach.  Each of these priorities have their own training module.
+Al participation levels include recognition for participants as tracked and announced by the Market Pulse Team.
 
-### First-Level, Priority #1 Activity
+### First-Level Activity : FireFox OS Device Price Collection
 ![one](http://tiptoes.ca/wp-content/uploads/2015/02/2893549851_ef5121f78b_m.jpg)
 
-Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for FFOS.  The [Market Pulse Web App](https://marketpulse.mozilla.community/activities/) tool will make it easy to collect FFOS data for:
+Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for FFOS.  The [Market Pulse Web App](https://marketpulse.mozilla.community/] web app will make it easy to collect FFOS data for:
 
 * Web Stores
+* Local Stores   
+
+And for a a diversity of pricing, which might include:
+
+* Phones bundled as part of a sales package
 * Individual Prices
-* Prices Associated with Plans
+* Individual Sale Prices
 
+**Recognition:** 
+* All participants who successfully collect phone prices for 3 months are recognized with a FFOS Data Collection Badge.
+* Top 3 contributors as determined by the Market Research Team, will recieve a Marketplace T-Shirt.
+[TODO: Lets pick a date for this, so we have a deadline for project and contributors have vision] 
 
-**Recognition:** Top 3 contributors per market who have successfully collected, and verified accurate data for a minimum of 3 months will unlock a special "FFOS Data Collection" badge which will be displayed on their Mozillians profile page. 
-
-### Second Level Activity
+### Second Level Activity : FireFox OS Competitor Device Price Collection
+> This activity is scheduled to [begin in mid-march](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form). 
 
 ![2](http://tiptoes.ca/wp-content/uploads/2015/02/3563420741_847725b086_m.jpg)
 
