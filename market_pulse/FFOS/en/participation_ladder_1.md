@@ -10,19 +10,19 @@ Most critical for the short-term success of Firefox OS Market Research, and our 
 
 ## What data are we collecting?
 
-### Store Name
+#### Store Name
 Full store name (no abbreviations)
 
-### Online Store (yes/no)
+#### Online Store (yes/no)
 Whether or not this price is being recorded from an online store
 
-## Store Location
+#### Store Location
 Using Open Street Map & your device location will record the store's location.
 
-## Device Type
+#### Device Type
 Phone device brand (will will provide you with a list of those available)
 
-## Whether or not the phone is in stock
+#### Whether or not the phone is in stock
 This is a verbal confirmation from store owners, can is recorded as true or false in the web app.
 
 * Price 
