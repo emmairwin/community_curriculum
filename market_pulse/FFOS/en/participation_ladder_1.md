@@ -1,7 +1,7 @@
 
 # FireFox OS Data Collector!
 
-![tags](http://tiptoes.ca/wp-content/uploads/2015/02/sale-tags1.png)
+![webapp](http://tiptoes.ca/wp-content/uploads/2015/02/2015-02-28_1308.png)
 
 Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for FFOS. The [Market Pulse Web App](https://marketpulse.mozilla.community/] web app will make it easy to collect FFOS data for:
 
@@ -9,8 +9,6 @@ Most critical for the short-term success of Firefox OS Market Research, and our 
 * Local Stores
 
 ## Web App
-
-![webapp](http://tiptoes.ca/wp-content/uploads/2015/02/2015-02-28_1308.png)
 
 We'll be using the [Market Pulse Web App](https://marketpulse.mozilla.community) to record data. It will also help you track activities and contributions over time.  For this first activity we'll be collecting the following information:
 
@@ -38,7 +36,35 @@ Price currency
 ### Comments
 A very important part of data collection are all those observations that occur to you as you record information. We will get into more detail about best practices next.
 
-## Market Pulse Web App
+## Pricing Scenerios
+
+The Market Pulse Web App will allow you to collect multiple prices for different price scenerios, and for multiple device-types.  
+
+### In Stock
+
+It may be obvious that a phone is in stock, but if you don't see FFOS phone then asking the store clerk will reveal their current stock.  There may also be more than one phone carryign FFOS, so a good question to ask might be 
+
+> "What FireFox OS devices to you have in stock ?"
+
+### Out of Stock
+
+Another important question, even if the store currently carryings one or more FFOS phones is
+
+> "Are there any FireFox OS devices you normally cary, that are not currently in stock?"
+
+#### Regular Price
+
+#### As Part of a Package
+
+#### On Sale
+
+
+
+#### Not Returning
+
+#### Returning
+
+## Collection Scenerios
 
 ### Spreadsheet 
 TODO: is this still an option?  
