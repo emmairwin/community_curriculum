@@ -38,7 +38,7 @@ A very important part of data collection are all those observations that occur t
 
 ## Pricing Scenerios
 
-The Market Pulse Web App will allow you to collect multiple prices for different price scenerios, and for multiple device-types.  
+The Market Pulse Web App will allow you to collect multiple prices for different price scfenerios, and for multiple device-types.  
 
 ### In Stock
 
@@ -50,7 +50,11 @@ It may be obvious that a phone is in stock, but if you don't see FFOS phone then
 
 Another important question, even if the store currently carryings one or more FFOS phones is
 
-> "Are there any FireFox OS devices you normally cary, that are not currently in stock?"
+> "Are there any FireFox OS devices you normally carry, that are not currently in stock?"
+
+And finally  - if there are devices not in stock
+
+> "Will you be getting new stock?"
 
 #### Regular Price
 
