@@ -13,25 +13,28 @@ Most critical for the short-term success of Firefox OS Market Research, and our 
 We'll be using the [Market Pulse Web App](https://marketpulse.mozilla.community) to record data. It will also help you track activities and contributions over time.  For this first activity we'll be collecting the following information:
 
 #### Store Name
-Full store name (no abbreviations)
+Full store name, no abbreviations.
 
 #### Online Store (yes/no)
-Whether or not this price is being recorded from an online store
+Indicates whether or not this price is being recorded from an online store.  
 
 #### Store Location
 Using Open Street Map & your device location will record the store's location.
 
 #### Device Type
-Phone device brand (will will provide you with a list of those available)
+![devicetype](http://tiptoes.ca/wp-content/uploads/2015/03/2015-03-01_0941.png)
+
+Phone device brand, selected from an a list.  
 
 #### Whether or not the phone is in stock
-This is a verbal confirmation from store owners, can is recorded as true or false in the web app.
+
+This is a verbal confirmation from store owners, can is recorded as true or false in the web app.  See 'Pricing Scenrios' below for more on this data.
 
 #### Price 
-The price of the device
+The price of the device.
 
 ### Currency
-Price currency
+Price currency for the reported price.
 
 ### Comments
 A very important part of data collection are all those observations that occur to you as you record information. We will get into more detail about best practices next.
