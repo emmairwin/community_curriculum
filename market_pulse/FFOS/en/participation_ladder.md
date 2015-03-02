@@ -3,7 +3,7 @@
 
 There are three levels of participation, ranging from our first set of most critical research needs, leading into deeper evaluations of market through storytelling, and outreach.  Each of these priorities have their own training module, and each will be released as an 'activity' in coming months.  Currently we are focused on the first activity. 
 
-**You can [sign-up for notification of new activities here](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form) **
+** You can [sign-up for notification of new activities here](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form) **
 
 Al participation levels include recognition for participants as tracked and announced by the Market Pulse Team.
 
@@ -22,8 +22,10 @@ And for a a diversity of pricing, which might include:
 * Individual Sale Prices
 
 **Recognition:** 
-* All participants who successfully collect phone prices for 3 months are recognized with your preference of a FFOS Data Collection Badge or a Printable Certificate.
-* Top 3 contributors as determined by the Market Research Team, will recieve a Marketplace T-Shirt.
+
+All participants who successfully collect phone prices for 3 months are recognized with your preference of a FFOS Data Collection Badge or a Printable Certificate.
+
+Top 3 contributors as determined by the Market Research Team, will recieve a Marketplace T-Shirt.
 [TODO: Lets pick a date for this, so we have a deadline for project and contributors have vision] 
 
 ### Second Level Activity : FireFox OS Competitor Device Price Collection
