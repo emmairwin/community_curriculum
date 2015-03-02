@@ -22,7 +22,7 @@ And for a a diversity of pricing, which might include:
 * Individual Sale Prices
 
 **Recognition:** 
-* All participants who successfully collect phone prices for 3 months are recognized with a FFOS Data Collection Badge.
+* All participants who successfully collect phone prices for 3 months are recognized with your preference of a FFOS Data Collection Badge or a Printable Certificate.
 * Top 3 contributors as determined by the Market Research Team, will recieve a Marketplace T-Shirt.
 [TODO: Lets pick a date for this, so we have a deadline for project and contributors have vision] 
 
