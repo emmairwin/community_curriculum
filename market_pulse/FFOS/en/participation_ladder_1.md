@@ -74,7 +74,7 @@ If you find a phone 'out of stock', and the store clerk has indicated they will 
 
 The 'regular price' of a phone, is simply the cost of a phone for purchase. This is different, of course, from phones on sale, or sold as part of a plan.  When you record this price, you will indicate that this phone is NOT part of a plan.
 
-### As Part of a Plan
+### As Part of a Plan 
 
 ![package](http://tiptoes.ca/wp-content/uploads/2015/03/2015-03-01_1751.png)
 
