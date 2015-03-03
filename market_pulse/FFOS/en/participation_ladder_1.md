@@ -3,7 +3,7 @@
 
 ![webapp](http://tiptoes.ca/wp-content/uploads/2015/02/2015-02-28_1308.png)
 
-Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for Firefox OS. The [Market Pulse Web App](https://marketpulse.mozilla.community/] web app will make it easy to collect Firefox OS data for:
+Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for Firefox OS. The [Market Pulse Web App](https://marketpulse.mozilla.community/) web app will make it easy to collect Firefox OS data for:
 
 * Web Stores
 * Local Stores
