@@ -72,17 +72,17 @@ If you find a phone 'out of stock', and the store clerk has indicated they will 
 
 ### Regular Price
 
-The 'regular price' of a phone, is simply the cost of a phone for purchase. This is different, of course, from phones on sale, or sold as part of a package.  When you record this price, you will indicate that this phone is NOT part of a plan.
+The 'regular price' of a phone, is simply the cost of a phone for purchase. This is different, of course, from phones on sale, or sold as part of a plan.  When you record this price, you will indicate that this phone is NOT part of a plan.
 
-### As Part of a Package
+### As Part of a Plan
 
 ![package](http://tiptoes.ca/wp-content/uploads/2015/03/2015-03-01_1751.png)
 
-Stores usually sell phones individually (regular price), or part of a package with things like data, or other incentives like Lego and data plans.  When you record this price in the WEb App, you will indicate that this phone IS part of a plan.   Also, adding in comments exactly what comes with the package is very important and useful information to Market Research.
+Stores usually sell phones individually (regular price), or part of a plan with things like data, or other incentives like Lego and data plans.  When you record this price in the WEb App, you will indicate that this phone IS part of a plan.   Also, adding in comments exactly what comes with the plan is very important and useful information to Market Research.
 
 ### On Sale
 
-Regular priced phones, that are not part of a package with a reduced price are 'on Sale'.  There is no specific data-entry for sale prices, so it's super important to indicate in the 'comments' section if this phone price is indicated as 'On Sale'.  
+Regular priced phones, that are not part of a plan with a reduced price are 'on Sale'.  There is no specific data-entry for sale prices, so it's super important to indicate in the 'comments' section if this phone price is indicated as 'On Sale'.  
 
 Sales may also be store-wide or on specific devices.  Also in the comments, please add the scope of the sale price.
 
