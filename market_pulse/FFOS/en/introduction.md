@@ -1,6 +1,6 @@
 ![Market Research](https://marketpulse.mozilla.community/static/img/marketpulse.svg)
 
-###Welcome to this very special opportunity to help Firefox OS! 
+###Market Researchers unite! Firefox OS needs your help! 
 
 The Firefox OS team has embarked on many different initiatives and campaigns to bring Firefox OS to market without always having sufficient understanding and knowledge of the reality on the ground, due to a lack of local market data. This local market data is extremely difficult to obtain, let alone, update regularly if you’re not actually on the ground. 
 
