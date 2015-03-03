@@ -1,10 +1,10 @@
 ![Market Research](https://marketpulse.mozilla.community/static/img/marketpulse.svg)
 
-###Welcome to this very special opportunity to help Firefox OS with Market Pulse! 
+###Welcome to this very special opportunity to help Firefox OS! 
 
 The Firefox OS team has embarked on many different initiatives and campaigns to bring Firefox OS to market without always having sufficient understanding and knowledge of the reality on the ground, due to a lack of local market data. This local market data is extremely difficult to obtain, let alone, update regularly if you’re not actually on the ground. 
 
-In our efforts to be much more data-driven when we think about how we market and ultimately grow Firefox OS, we are launching this Firefoxx OS Market Pulse challenge. To this end, **we need not only your help collecting data, but your very best storytelling and detective work to have a better understanding of your local market.**
+In our efforts to be much more data-driven when we think about how we market and ultimately grow Firefox OS, we are launching a global initiative to collect market data for Firefox OS, which we're calling Market Pulse. To this end, **we need not only your help collecting data, but your very best detective work to have a better understanding of your local market.**
 
 ###Who are we?
 
