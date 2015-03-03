@@ -95,24 +95,8 @@ Collection of phone prices needs to be done once per month.  Reporting the same 
 If a price changes, or new offer appears within the month, you are encouraged to report this change as a new price. Again, the comments section helps explain to Market Pulse what prompted your entry.
 
 ## Comments
-
-[TODO ] write practices
+Best
 
 ### Spreadsheet 
 TODO: is this still an option?  
-
-## Tips & Tricks for Creative Reporting
-![creativee](http://tiptoes.ca/wp-content/uploads/2015/02/5841002125_2e58e970b5_m1.jpg)
-
-Your research turns a foggy image of your local community into a vibrant and priceless work of art! This can be an incredibly fun and rewarding aspect of participation - stories can be revealed through words, images and even sound. 
-
-
-##Discussion
-
-Each of these discussion topics are shared in our [Discourse forumm](), please respond to the thread and read what other participants have to say.
-
-1. What types of prices might you encounter in market research?
-2. What type of 'human error' might result incorrect data, and how can we avoid it?  And what tips would you have to avoid it.
-3. {TODO}  questions on web app, 
-4. What questions do you have for the FFOS Market Research Impact Team?
 
