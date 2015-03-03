@@ -95,7 +95,14 @@ Collection of phone prices needs to be done once per month.  Reporting the same 
 If a price changes, or new offer appears within the month, you are encouraged to report this change as a new price. Again, the comments section helps explain to Market Pulse what prompted your entry.
 
 ## Comments
-Best
+
+Adding meaningful comments for prices-collected will go a long way to help the Market Pulse team understand the pricing of phones in your region.   Some suggestions for topics are:
+
+* Positioning of FFOS phones in the store
+* Whether or not a phone price is 'sale'
+* Outside or internal advertising for FFOS
+* Comments from store clerks about people who have purchased FFOS
+* Feedback from store clerks about why people do, or do not select FFOS
 
 ### Spreadsheet 
 TODO: is this still an option?  
