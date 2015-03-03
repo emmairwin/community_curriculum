@@ -1,9 +1,9 @@
 
-# FireFox OS Data Collector!
+# Firefox OS Data Collector!
 
 ![webapp](http://tiptoes.ca/wp-content/uploads/2015/02/2015-02-28_1308.png)
 
-Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for FFOS. The [Market Pulse Web App](https://marketpulse.mozilla.community/] web app will make it easy to collect FFOS data for:
+Most critical for the short-term success of Firefox OS Market Research, and our Market Research Impact Team is the collection of local pricing for Firefox OS. The [Market Pulse Web App](https://marketpulse.mozilla.community/] web app will make it easy to collect Firefox OS data for:
 
 * Web Stores
 * Local Stores
@@ -40,6 +40,9 @@ Price currency for the reported price.
 #### Comments
 A very important part of data collection are all those observations that occur to you as you record information. We will get into more detail about best practices next.
 
+---
+
+
 ## Pricing Scenarios
 
 ![pricingscenerios](http://tiptoes.ca/wp-content/uploads/2015/02/sale-tags1.png)
@@ -49,15 +52,15 @@ The Market Pulse Web App will allow you to collect multiple prices for different
 ### In Stock
 
 It may seem obvious what's in stock for a store, but display may only represent a portion of what's in stock. 
-For the best information, ask the store clerk about their FFOS phones in their store. A good question to ask might be:
+For the best information, ask the store clerk about their Firefox OS phones in their store. A good question to ask might be:
 
-> "What FireFox OS devices to you have in stock ?"
+> "What Firefox OS devices to you have in stock ?"
 
 ### Out of Stock
 
-Another important question, even if the store currently carrying one or more FFOS phones is:
+Another important question, even if the store currently carrying one or more Firefox OS phones is:
 
-> "Are there any FireFox OS devices you normally carry, that are not currently in stock?"
+> "Are there any Firefox OS devices you normally carry, that are not currently in stock?"
 
 And finally  - if there are devices not in stock:
 
@@ -83,6 +86,8 @@ Regular priced phones, that are not part of a package with a reduced price are '
 
 Sales may also be store-wide or on specific devices.  Also in the comments, please add the scope of the sale price.
 
+---
+
 
 ## Collection Scenarios
 
@@ -98,12 +103,11 @@ If a price changes, or new offer appears within the month, you are encouraged to
 
 Adding meaningful comments for prices-collected will go a long way to help the Market Pulse team understand the pricing of phones in your region.   Some suggestions for topics are:
 
-* Positioning of FFOS phones in the store
+* Positioning of Firefox OS phones in the store
 * Whether or not a phone price is 'sale'
-* Outside or internal advertising for FFOS
-* Comments from store clerks about people who have purchased FFOS
-* Feedback from store clerks about why people do, or do not select FFOS
+* Outside or internal advertising for Firefox OS
+* Comments from store clerks about people who have purchased Firefox OS
+* Feedback from store clerks about why people do, or do not select Firefox OS
 
-### Spreadsheet 
-TODO: is this still an option?  
+**NOTE: If you find you are without connectivity, or have issues with collecting data on your phone, it's a good idea to bring a notebook and pencil as backup.  This way you can enter data at a later time. 
 

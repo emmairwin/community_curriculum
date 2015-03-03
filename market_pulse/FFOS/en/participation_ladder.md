@@ -44,7 +44,7 @@ Leveling-up our data collection, a new activity will be added to the Marketpulse
 
 ![3](http://tiptoes.ca/wp-content/uploads/2015/02/4802869688_cdc82146a0_m.jpg)
 
-> This activity is scheduled to [begin in mid-april](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form). You can sign-up [here](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form), for notification of this and other new activities.
+> This activity is scheduled to [begin in mid-April](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form). You can sign-up [here](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form), for notification of this and other new activities.
 
 Qualitative Activity
 
@@ -59,7 +59,7 @@ Top 3 contributors per market who have successfully collected accurate data for 
 
 ![4](http://tiptoes.ca/wp-content/uploads/2015/02/4119973735_af899a27e9_q.jpg)
 
-> This activity is scheduled to [begin in mid-may](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form). You can sign-up [here](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form), for notification of this and other new activities
+> This activity is scheduled to [begin in mid-May](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form). You can sign-up [here](https://docs.google.com/forms/d/1RLcSS9r1i-gMig1hRBg6gb86VWspvsan5OVdpfRWT-M/viewform?usp=send_form), for notification of this and other new activities
 
 [TODO] Description, is this a category of impact, how would you describe this next level?
 
