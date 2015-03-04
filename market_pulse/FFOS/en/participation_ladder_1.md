@@ -84,10 +84,19 @@ Stores usually sell phones individually (regular price), or part of a plan with 
 
 Regular priced phones, that are not part of a plan with a reduced price are 'on Sale'.  There is no specific data-entry for sale prices, so it's super important to indicate in the 'comments' section if this phone price is indicated as 'On Sale'.  
 
-Sales may also be store-wide or on specific devices.  Also in the comments, please add the scope of the sale price.
+Sales may also be
+
+## Comments
+
+Adding meaningful comments for prices-collected will go a long way to help the Market Pulse team understand the pricing of phones in your region.   Some suggestions for topics are:
+
+* Positioning of Firefox OS phones in the store
+* Whether or not a phone price is 'sale'
+* Outside or internal advertising for Firefox OS
+* Comments from store clerks about people who have purchased Firefox OS
+* Feedback from store clerks about why people do, or do not select Firefox OS store-wide or on specific devices.  Also in the comments, please add the scope of the sale price.
 
 ---
-
 
 ## Collection Scenarios
 
@@ -99,15 +108,47 @@ Collection of phone prices needs to be done once per month.  Reporting the same 
 
 If a price changes, or new offer appears within the month, you are encouraged to report this change as a new price. Again, the comments section helps explain to Market Pulse what prompted your entry.
 
-## Comments
-
-Adding meaningful comments for prices-collected will go a long way to help the Market Pulse team understand the pricing of phones in your region.   Some suggestions for topics are:
-
-* Positioning of Firefox OS phones in the store
-* Whether or not a phone price is 'sale'
-* Outside or internal advertising for Firefox OS
-* Comments from store clerks about people who have purchased Firefox OS
-* Feedback from store clerks about why people do, or do not select Firefox OS
+---
 
 **NOTE: If you find you are without connectivity, or have issues with collecting data on your phone, it's a good idea to bring a notebook and pencil as backup.  This way you can enter data at a later time. 
+
+---
+
+## Improving this content
+
+The Marketpulse Community Education has ben built with careful input from the Marketpulse and Community Development Teams, but it's not done!  We need your help!  If you see omissions in any scenario, or have suggestions on information that can better help and grow an impactful team of Market Researchers, there are two ways to get involved.
+
+1. Reach out directly to [Emma Irwin](mailto:eirwin@mozilla.com)
+2. Submit a pull request on the [Community Curriculum Repository](https://github.com/emmairwin/community_curriculum) . 
+
+---
+
+## Discussion
+
+![speech](http://tiptoes.ca/wp-content/uploads/2015/03/speech-16.png)
+
+You'll find some questions are linked to Discourse topics - please feel free to share your thoughts and ideas here, so that others may learn and be inspired to share their own ideas.
+
+1. [Reporting sometimes requires that you approach and ask store clerks questions about Firefox OS.  What considerations should you make before asking questions?](https://discourse.mozilla-community.org/t/marketpulse-talking-to-stores/1763)
+2. [What observations do you think would be great to share in the comments section when recording a phone or plan price?](https://discourse.mozilla-community.org/t/marketpulse-making-comments-awesome/1764)
+3. [What exceptions to the 'once per month' rule of price-recording can you think of? Including those scenario this training my not have considered?](https://discourse.mozilla-community.org/t/marketpulse/1765)
+4. [How as a group, do you think the Marketpulse Impact Group can support each other?](https://discourse.mozilla-community.org/t/marketpulse-teamwork/1766)
+5. [For on-line stores, how do you decipher local 'Web Stores' from global ones?  What existing tools can you share for finding on-line stores for those in our local communities?](https://discourse.mozilla-community.org/t/marketpulse-online-stores/1767)
+
+---
+
+## Self Assessment
+
+![gauge](http://tiptoes.ca/wp-content/uploads/2015/03/THERMO011.png)
+
+Here are some questions to help you evaluate your readiness to begin. If you find yourself answering 'no' or 'maybe' to a majority of these questions, please reach out to us and we will help you.
+
+1.  I feel confident in my knowledge of how to navigate the Marketpulse Web App User Interface.  
+2.  I understand the difference between pricing for a phone, and phones that come as part of a plan.
+3.  I understand how 'contributions' are recorded and calculated on the Web App.
+4.  I know how often reporting should be done for a single price scenario, and what the exception is to that rule.
+5.  I know that 'Out of Stock' has two distinct meanings, and how to report those differences using the 'Comments' field in the Web App.
+6.  I am clear on the recognition portion of this activity, and what milestones 
+7.  I know how to suggestion improvements for this educational content based on my experiences.
+
 
