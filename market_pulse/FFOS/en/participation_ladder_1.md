@@ -1,5 +1,5 @@
 
-# Firefox OS Data Collector!
+# First-Level Activity : Firefox OS Device Price Collection
 
 ![webapp](http://tiptoes.ca/wp-content/uploads/2015/02/2015-02-28_1308.png)
 
