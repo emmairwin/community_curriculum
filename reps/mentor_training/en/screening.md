@@ -25,7 +25,7 @@ There are five distinct steps for screening
 
 Please take time to review each of these steps above, and answer the following questions:
 
-1. [If an applicant is *not* ready, what follow-up activities will you suggest?](https://discourse.mozilla-community.org/t/mentor-training-update/1722/2?u=emma_irwin)
+1. [If an applicant is *not* ready, what follow-up activities would you suggest?](https://discourse.mozilla-community.org/t/mentor-training-update/1722/2?u=emma_irwin)
 2. What questions seem most important to you, in deciding whether someone is ready or not?
 3. How would you explain the Reps program to someone who has applied thinking Reps is a form of recognition, or level of contributor status?
 4. What is the maximum amount of time you should wait for an applicant to complete the process before closing the bug as 'Resolved / Won't Fix ?
