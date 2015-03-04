@@ -157,7 +157,7 @@ Data Image Credit [notbrucelee](https://www.flickr.com/photos/notbrucelee/)
 
 ## Discussion
 
-![speech](http://tiptoes.ca/wp-content/uploads/2015/03/speech-16.png)
+![speak](http://tiptoes.ca/wp-content/uploads/2015/03/speech-16.png)
 
 You'll find some questions are linked to Discourse topics - please feel free to share your thoughts and ideas here, so that others may learn and be inspired to share their own ideas.
 
