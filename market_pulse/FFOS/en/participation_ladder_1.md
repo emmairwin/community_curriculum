@@ -132,24 +132,10 @@ If a price changes, or new offer appears within the month, you are encouraged to
 
 ## Improving this content
 
-The Marketpulse Community Education has ben built with careful input from the Marketpulse and Community Development Teams, but it's not done!  We need your help!  If you see omissions in any scenario, or have suggestions on information that can better help and grow an impactful team of Market Researchers, there are two ways to get involved.
+The Marketpulse Community Education with the thoughtful guidance of both the Marketpulse and Community Development Teams, but it's not done!  We need your help!  If you see omissions in any scenario, or have suggestions on information that can better help and grow an impactful team of Market Researchers, there are two ways to get involved.
 
 1. Reach out directly to [Emma Irwin](mailto:eirwin@mozilla.com)
 2. Submit a pull request on the [Community Curriculum Repository](https://github.com/emmairwin/community_curriculum) . 
-
----
-
-## Discussion
-
-![speech](http://tiptoes.ca/wp-content/uploads/2015/03/speech-16.png)
-
-You'll find some questions are linked to Discourse topics - please feel free to share your thoughts and ideas here, so that others may learn and be inspired to share their own ideas.
-
-1. [Reporting sometimes requires that you approach, and ask store clerks questions about Firefox OS.  What considerations should you make before asking questions?](https://discourse.mozilla-community.org/t/marketpulse-talking-to-stores/1763)
-2. [What observations do you think would be great to share in the comments section when recording a phone or plan price?](https://discourse.mozilla-community.org/t/marketpulse-making-comments-awesome/1764)
-3. [What exceptions to the 'once per month' rule of price-recording can you think of? Including those scenario this training my not have considered?](https://discourse.mozilla-community.org/t/marketpulse/1765)
-4. [How as a group, do you think the Marketpulse Impact Group can support each other?](https://discourse.mozilla-community.org/t/marketpulse-teamwork/1766)
-5. [For on-line stores, how do you decipher local 'Web Stores' from global ones?  What existing tools can you share for finding on-line stores for those in our local communities?](https://discourse.mozilla-community.org/t/marketpulse-online-stores/1767)
 
 ---
 
@@ -168,5 +154,19 @@ Here are some questions to help you evaluate your readiness to begin. If you fin
 7.  I know how to suggestion improvements for this educational content based on my experiences.
 
 Data Image Credit [notbrucelee](https://www.flickr.com/photos/notbrucelee/)
+
+## Discussion
+
+![speech](http://tiptoes.ca/wp-content/uploads/2015/03/speech-16.png)
+
+You'll find some questions are linked to Discourse topics - please feel free to share your thoughts and ideas here, so that others may learn and be inspired to share their own ideas.
+
+1. [Reporting sometimes requires that you approach, and ask store clerks questions about Firefox OS.  What considerations should you make before asking questions?](https://discourse.mozilla-community.org/t/marketpulse-talking-to-stores/1763)
+2. [What observations do you think would be great to share in the comments section when recording a phone or plan price?](https://discourse.mozilla-community.org/t/marketpulse-making-comments-awesome/1764)
+3. [What exceptions to the 'once per month' rule of price-recording can you think of? Including those scenario this training my not have considered?](https://discourse.mozilla-community.org/t/marketpulse/1765)
+4. [How as a group, do you think the Marketpulse Impact Group can support each other?](https://discourse.mozilla-community.org/t/marketpulse-teamwork/1766)
+5. [For on-line stores, how do you decipher local 'Web Stores' from global ones?  What existing tools can you share for finding on-line stores for those in our local communities?](https://discourse.mozilla-community.org/t/marketpulse-online-stores/1767)
+
+---
 
 
