@@ -31,16 +31,16 @@ Phone device brand, selected from an a list.
 
 #### Whether or not the phone is in stock
 
-This is a verbal confirmation from store owners, can is recorded as true or false in the web app.  See 'Pricing Scenarios' below for more on this data.
+This is a verbal confirmation from store owners, and may be recorded as true or false in the web app.  See 'Pricing Scenarios' below for more on this data.
 
 #### Price 
 The price of the device.
 
-#### Currency
-Price currency for the reported price.
+Currency#### 
+Currency of the reported price.
 
 #### Comments 
-A very important part of data collection are all those observations that occur to you as you record information. We will get into more detail about how comments he
+A very important part of data collection are all those observations that occur to you as you record information. We cannot stress enough, how important it is to the project outcome - that you share as as many observations as possible.
 
 ---
 
@@ -84,7 +84,7 @@ The 'regular price' of a phone, is simply the cost of a phone for purchase. This
 
 ![package](http://tiptoes.ca/wp-content/uploads/2015/03/2015-03-01_1751.png)
 
-Stores usually sell phones individually (regular price), or part of a plan with things like data, or other incentives like Lego and data plans.  When you record this price in the WEb App, you will indicate that this phone IS part of a plan.   Also, adding in comments exactly what comes with the plan is very important and useful information to Market Research.
+Stores usually sell phones individually (regular price), or part of a plan with things like data, or other incentives like Lego and data plans.  When you record this price in the Web App, you will indicate that this phone IS part of a plan.   Also, please add in comments exactly what items comes with the plan is very important.
 
 ### On Sale
 
@@ -95,13 +95,13 @@ Regular priced phones, that are not part of a plan with a reduced price are 'on 
 
 Adding meaningful comments for prices-collected will go a long way to help the Market Pulse team understand the pricing of phones in your region.   Some suggestions for topics are:
 
-* Positioning of Firefox OS phones in the store
-* Whether or not a phone price is 'sale'
-* Outside or internal advertising for Firefox OS
-* Comments from store clerks about people who have purchased Firefox OS
-* Feedback from store clerks about why people do, or do not select Firefox OS store-wide or on specific devices.  Also in the comments, please add the scope of the sale price.
+* Positioning of Firefox OS phones in the store.
+* Whether or not a phone price is 'sale'.
+* Advertising (inside or outside) the store for Firefox OS.
+* Comments from store clerks about people who have purchased Firefox OS.
+* Feedback from store clerks about why people (in their opinion) do, or do not select Firefox OS.
 
-## Contribution Tally
+## Contribution Tally.
 
 Currently the Web App displays the following information on the home screen:
 
@@ -113,11 +113,12 @@ We hope this is a fun way to track your progress, but we welcome your feedback o
 ---
 
 ## Collection Scenarios
+
 ![datacollection](http://tiptoes.ca/wp-content/uploads/2015/03/8016173775_3299f6b838_m.jpg)
 
 ### Once Per Month
 
-Collection of phone prices needs to be done once per month.  Reporting the same phone price in the same month is discouraged.  
+Collection of phone prices needs to be done once per month.  Reporting the same phone price in the same month is discouraged. 
 
 ### Exception
 
