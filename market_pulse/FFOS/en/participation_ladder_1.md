@@ -37,7 +37,7 @@ The price of the device.
 #### Currency
 Price currency for the reported price.
 
-#### Comments
+#### Comments 
 A very important part of data collection are all those observations that occur to you as you record information. We will get into more detail about best practices next.
 
 ---
