@@ -8,14 +8,14 @@ In our efforts to be much more data-driven when we think about how we market and
 
 ###Who are we?
 
-We are Mozilla's Marketpulse team. You can reach us at [marketpulse-team@mozilla.com](mailto:marketpulse-team@mozilla.com).
+We are Mozilla's Marketpulse team. You can reach us at [marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
 We also have a Telegram group for chat.
 
 ###Who are you?
 
 ![Detective](http://tiptoes.ca/wp-content/uploads/2015/02/3028314931_53d4aa5fc2_z.jpg)
 
-We're starting with a small group of people (2 -3 per market), interested in helping Mozilla understand their local market for mobile.  The markets we'll be focusing on first are:
+We're starting with volunteers who are interested in helping Mozilla understand their local market for mobile.  The markets we'll be focusing on first are:
 
 **Brazil, Mexico, India, Bangladesh, Philippines, Russia, Colombia**
 
@@ -29,11 +29,11 @@ Is this you?  Here are some qualities we think would make a great Marketpulse de
 
 ###Marketpulse Impact Team
 
-By participating in this initiative, **you will be one of the founding members of our new Marketpulse Impact Team**. An impact team is a group of Mozilla paid staff and volunteers with a shared set of skill-sets and interests, working together, as a team, on a specific project or initiative. This team meets regularly online, defines goals and objectives on a quarterly basis and aims to deliver increase impact on their project/initiative by continuously helping more, and more volunteers participate.  
+By participating in this initiative, **you will be able to join our new Market Research Impact Team**. An impact team is a group of Mozilla paid staff and volunteers with a shared set of skill-sets and interests, working together, as a team, on a specific project or initiative. This team meets regularly online, defines goals and objectives on a quarterly basis and aims to deliver increase impact on their project/initiative by continuously helping more, and more volunteers participate.  For more info, please send an email to [marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
 
 ###Who can participate?
 
-The Firefox OS Marketpulse challenge is open to anyone interested in participating.
+The Firefox OS Marketpulse initiative is open to anyone interested in participating.
 
 detective image credit: [ollieolarete](https://www.flickr.com/photos/ollieolarte/)
 
