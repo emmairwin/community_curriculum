@@ -8,8 +8,8 @@ In our efforts to be much more data-driven when we think about how we market and
 
 ###Who are we?
 
-We are Mozilla's Marketpulse team. You can reach us at [marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
-We also have a Telegram group for chat.
+We are Mozilla's Marketpulse project team, comprised of Natalia Martinez-Winter (Fx OS team - Marketing), Dominik Strohmeier (Fx OS Team - Research), Emma Irwin (Participation Team - Education), Pierros Papadeas (Participation Team - Tools) and William Quiviger (Participation Team - Strategy) . You can reach us at [marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
+We also have a Telegram group for chat (send us an email to get be invited into the group) or find us on irc #marketpulse.
 
 ###Who are you?
 
