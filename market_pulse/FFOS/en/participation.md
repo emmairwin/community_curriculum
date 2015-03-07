@@ -3,7 +3,7 @@
 
 We are Mozilla's Marketpulse project team!
 
-* ![Natalia](https://mozillians.org/media/uploads/sorl-cache/0f/f3/0ff3c78295b27b3c213f65d7b7e6d8b1.jpg)[Natalia Martinez-Winter](https://mozillians.org/en-US/u/natalia/) (Fx OS team - Marketing)
+* ![profilephoto](https://mozillians.org/media/uploads/sorl-cache/0f/f3/0ff3c78295b27b3c213f65d7b7e6d8b1.jpg)[Natalia Martinez-Winter](https://mozillians.org/en-US/u/natalia/) (Fx OS team - Marketing)
 * [Dominik Strohmeier](https://mozillians.org/en-US/u/dstrohmeier/)( (Fx OS Team - Research)
 * [Emma Irwin](https://mozillians.org/en-US/u/emmairwin/) (Participation Team - Education)
 * [Pierros Papadeas](https://mozillians.org/en-US/u/pierros/) (Participation Team - Tools) 
