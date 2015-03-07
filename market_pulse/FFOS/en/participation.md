@@ -1,7 +1,7 @@
 
 ###Who are we?
 
-We are Mozilla's Marketpulse project team!
+We are Mozilla's Marketpulse project team!  
 
 * [Natalia Martinez-Winter](https://mozillians.org/en-US/u/natalia/) (Fx OS team - Marketing)
 * [Dominik Strohmeier](https://mozillians.org/en-US/u/dstrohmeier/)( (Fx OS Team - Research)
@@ -22,15 +22,17 @@ We're starting with volunteers who are interested in helping Mozilla understand 
 **Brazil, Mexico, India, Bangladesh, Philippines, Russia, Colombia**
 
 
-###Marketpulse Impact Team
+###Together We're the Market Research Impact Team!
 
-By participating in this initiative, you will be able to join our new [Market Research Impact Team](https://mozillians.org/en-US/group/market-research-impact-group/). 
+The Marketpulse project team, together with this amazing volunteer community and YOU, make up the [Market Research Impact Team](https://mozillians.org/en-US/group/market-research-impact-group/)!  
 
 ###Who can participate?
 
 The Firefox OS Marketpulse initiative is open to anyone interested in participating.
 
-detective image credit: [ollieolarete](https://www.flickr.com/photos/ollieolarte/)
+--
+
+Detective image credit: [ollieolarete](https://www.flickr.com/photos/ollieolarte/)
 
 
 
