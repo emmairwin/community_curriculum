@@ -1,9 +1,18 @@
 
 ###Who are we?
 
-We are Mozilla's Marketpulse project team, comprised of Natalia Martinez-Winter (Fx OS team - Marketing), Dominik Strohmeier (Fx OS Team - Research), Emma Irwin (Participation Team - Education), Pierros Papadeas (Participation Team - Tools) and William Quiviger (Participation Team - Strategy) . You can reach us at [marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
+We are Mozilla's Marketpulse project team, comprised of:
+* [Natalia Martinez-Winter](https://mozillians.org/en-US/u/natalia/) (Fx OS team - Marketing)
+* [Dominik Strohmeier](https://mozillians.org/en-US/u/dstrohmeier/)( (Fx OS Team - Research)
+* [Emma Irwin](https://mozillians.org/en-US/u/emmairwin/) (Participation Team - Education)
+* [Pierros Papadeas](https://mozillians.org/en-US/u/pierros/) (Participation Team - Tools) 
+* [William Quiviger](https://mozillians.org/en-US/u/williamq/) (Participation Team - Strategy) 
+
+You can reach all of us at[marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
+
 We also have a Telegram group for chat (send us an email to get be invited into the group) or find us on irc #marketpulse.
 
+###Who are you?
 
 ![Detective](http://tiptoes.ca/wp-content/uploads/2015/03/infoyougaphic1.png)
 
@@ -14,7 +23,7 @@ We're starting with volunteers who are interested in helping Mozilla understand 
 
 ###Marketpulse Impact Team
 
-By participating in this initiative, **you will be able to join our new Market Research Impact Team**. An impact team is a group of Mozilla paid staff and volunteers with a shared set of skill-sets and interests, working together, as a team, on a specific project or initiative. This team meets regularly online, defines goals and objectives on a quarterly basis and aims to deliver increase impact on their project/initiative by continuously helping more, and more volunteers participate.  For more info, please send an email to [marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
+By participating in this initiative, **you will be able to join our new Market Research Impact Team**. 
 
 ###Who can participate?
 
