@@ -9,7 +9,7 @@ We are Mozilla's Marketpulse project team!
 * [Pierros Papadeas](https://mozillians.org/en-US/u/pierros/) (Participation Team - Tools) 
 * [William Quiviger](https://mozillians.org/en-US/u/williamq/) (Participation Team - Strategy) 
 
-You can reach all of us at[marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
+You can reach all of us at [marketpulse@mozilla.com](mailto:marketpulse@mozilla.com).
 
 We also have a Telegram group for chat (send us an email to get be invited into the group) or find us on irc #marketpulse.
 
@@ -24,7 +24,7 @@ We're starting with volunteers who are interested in helping Mozilla understand 
 
 ###Marketpulse Impact Team
 
-By participating in this initiative, **you will be able to join our new Market Research Impact Team**. 
+By participating in this initiative, you will be able to join our new [Market Research Impact Team](https://mozillians.org/en-US/group/market-research-impact-group/). 
 
 ###Who can participate?
 
