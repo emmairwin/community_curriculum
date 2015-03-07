@@ -15,7 +15,7 @@ We also have a Telegram group for chat (send us an email to get be invited into 
 
 ###Who are you?
 
-![Detective](http://tiptoes.ca/wp-content/uploads/2015/03/infoyougaphic1.png)
+![Detective](http://tiptoes.ca/wp-content/uploads/2015/03/infoyougaphic2.png)
 
 We're starting with volunteers who are interested in helping Mozilla understand their local market for mobile.  The markets we'll be focusing on first are:
 

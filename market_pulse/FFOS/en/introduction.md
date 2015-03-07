@@ -10,6 +10,7 @@ In our efforts to be much more data-driven when we think about how we market and
  
 ###Benefits of Participation
 
+* Market Research is a complex, recognized skill - you will recieve mentorship, training and education to grow you talent!
 * Opportunity to support and **influence the growth of Firefox OS in your market**.
 * Opportunity to **learn more about the mobile industry** in general and get coaching/mentoring on how to effectively collect/analyze market data.
 * Valuable research work experience to add to your CV.
