@@ -10,12 +10,13 @@ In our efforts to be much more data-driven when we think about how we market and
  
 ###Benefits of Participation
 
-* Opportunity to support and influence the growth of Firefox OS in your market.
-* Opportunity to learn more about the mobile industry in general and get coaching/mentoring on how to effectively collect/analyze market data.
+* Opportunity to support and **influence the growth of Firefox OS in your market**.
+* Opportunity to **learn more about the mobile industry** in general and get coaching/mentoring on how to effectively collect/analyze market data.
 * Valuable research work experience to add to your CV.
-* Opportunity to be part of a global network of volunteer market researchers and to belong to a vibrant community.
+* Opportunity to be part of a **global network of volunteer market researchers** and to belong to a vibrant community.
 * Opportunity to increase mobile industry landscape knowledge and understanding of trends
 * If you are interested in recognition: prizes and rewards proportional to quantity/quality of data collected  (eg. badges, phones, certificates, possibility of internship at Mozilla et…).  
+* Market Research Impact Team Membership :)
 
 
 
