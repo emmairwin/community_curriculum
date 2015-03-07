@@ -1,7 +1,8 @@
 
 ###Who are we?
 
-We are Mozilla's Marketpulse project team, comprised of:
+We are Mozilla's Marketpulse project team!
+
 * [Natalia Martinez-Winter](https://mozillians.org/en-US/u/natalia/) (Fx OS team - Marketing)
 * [Dominik Strohmeier](https://mozillians.org/en-US/u/dstrohmeier/)( (Fx OS Team - Research)
 * [Emma Irwin](https://mozillians.org/en-US/u/emmairwin/) (Participation Team - Education)
