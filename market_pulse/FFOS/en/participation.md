@@ -24,7 +24,7 @@ We're starting with volunteers who are interested in helping Mozilla understand 
 
 ###Together We're the Market Research Impact Team!
 
-The Marketpulse project team, together with this amazing volunteer community and YOU, make up the [Market Research Impact Team](https://mozillians.org/en-US/group/market-research-impact-group/)!  
+The Marketpulse project team, together with this amazing volunteer community and YOU, make up the Market Research Impact Team!
 
 ###Who can participate?
 
