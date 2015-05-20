@@ -51,9 +51,9 @@ A price changes, or new offer appears within the same month, you are encouraged 
 
 ### Additional Resources
 
-* [Printable Checklist](/_includes/community_curriculum/market_pulse/en/FFOS/printable_checklist.md)
-* [Web App fields(and how to use them)](/modules/marketpulse/omit_glossary/ )
-* [Pricing & Plan Scenarios](/_includes/community_curriculum/market_pulse/en/FFOS/pricing_scenerios.md)
+* [Printable Checklist](/modules/marketpulse_resources/printable_checklist/)
+* [Web App fields(and how to use them)](/modules/marketpulse_resources/app_fields/ )
+* [Pricing & Plan Scenarios](/modules/marketpulse_resources/pricing_scenerios)
 
 
 ### Self Assessment
