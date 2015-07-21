@@ -9,7 +9,7 @@ You completed this training module, and that's no small thing. Neither is your d
 
 We offer you this new Mozilla Reps Mentor Badge in recognition of your new role, of completing this course and (we hope) as an opportunity to share your pride.  This will also be the first 'real-life' badge for the Mozilla Reps program.  This is our first way of saying thank you.
 
-Also know that you have the commitment of he entire Reps team, and of council to help you. To empower you, to listen and help you grow even more as a valued member of the Mozilla Reps Mentor community.  Please reach out to any one of us, at any time, with questions, concerns or questions. 
+Also know that you have the commitment of the entire Reps team, and of council to help you. To empower you, to listen and help you grow even more as a valued member of the Mozilla Reps Mentor community.  Please reach out to any one of us, at any time, with questions, concerns or questions. 
 
 Thank you [Elio Qoshi](https://twitter.com/elioqoshi)
 
