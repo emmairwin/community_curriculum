@@ -8,6 +8,7 @@ This is a very big topic for any community, and Mozilla Reps is no different.  U
 
 ### Resources
 
+
 1. [Open Street HOT Map Resolution ProcessS](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community/HOT_Resolution_Process)
 2. [Drupal - Conflict Resolution Policy and Process](https://www.drupal.org/conflict-resolution)
 3. [Dealing with Disrespect](http://www.dealingwithdisrespect.com/) 
