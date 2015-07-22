@@ -5,7 +5,7 @@ There are some key decisions and preparation work you should be aware of, and pl
 ## Inviting People
 [We’ve covered who this workshop can benefit](), but who else should you invite?  
 
-The answer is anyone working on Participation at Mozilla: volunteers, staff of any confidence level, experience or curiosity.  **The more voices the better, the greater diversity - the better.**
+The answer is **anyone working on, or near Participation at Mozilla**: volunteers, staff of any confidence level, experience or curiosity.  **The more voices the better, the greater diversity - the better.**
 
 ## Research
 
