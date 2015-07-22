@@ -27,6 +27,8 @@ Learning how to run creative, strategic and insightful workshops with outcomes i
 
 ### Who should facilitate this workshop ?
 
+![thesepeopleshould](https://farm4.staticflickr.com/3681/18952590119_b563b0e081_n.jpg)
+
 Self-identifying as a ‘Participation Expert’ is not a major criteria for running this workshop, but we suggest the following:
 
 #### Should have
