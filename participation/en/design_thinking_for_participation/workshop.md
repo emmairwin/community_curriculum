@@ -2,6 +2,8 @@
 
 ![mozsuccess](https://farm4.staticflickr.com/3934/15435620299_6473f04e8a_z.jpg)
 
+*image credit:* [Mozilla Europe](https://www.flickr.com/photos/mozillaeu/)
+
 ## Introductions!
 
 If this is your first time running this workshop, or you appreciate a checklist for warming up and preparing your group, here is a suggested introductory workflow:
@@ -32,7 +34,7 @@ As a result of the Icebreaker you can likely identify the type of group you're w
 2. A group united around a **common Participation function**. Examples would be: 'code contributors or QA'.
 3. A group united around a **contribution skill area**.  This would be Market Research, or Front End Development.
 4. **The mixed bag**.  People with various backgrounds, interests and focus.
-5. A group focused on **Participation/Volunteer culture** issues.
+5. A group focused on **Participation/Volunteer culture** issues, where participants are a mix of staff and volunteers.
 
 It's likely you'll have some level of mixed participation, but use the majority  to define your group.  Voice your observation to the group, and have them agree with the assertion so you can move on to select your strategy.  
 
@@ -45,7 +47,42 @@ Currently there are two versions of this workshop, for the identified scenarios,
 ###For Focus #1, #2, #4
   [Design Thinking for Participation (Full Course)]()
 
-###For Focus #3, #5
+###For Focus #3
   [Design Thinking for Participation(Partners & Group Focus)]()
+  
+###For Focus #5
+  [Design Thinking for Participation(Community - Co-Design)]()
 
-	
+## Building and Documenting Consensus
+
+Once you've finished the Design Thinking facilitation it's time to bring the group's ideas into center.
+
+As a group ask people who feel they have a prototype to share (it doesn't have to be everyone).  As they share (on a whiteboard or flip chart so people can make suggestions), make notes on:
+
+1. **Problem Statement(s)**
+   Start with 1, which may be refined by the group as they continued to share.  If problem statements differ wildly, then just make a list.
+2. **Themes/Trends** This could be anything: education, diversity, communication.
+3. **Context** What do you need to know about the background? What are the key facts?
+4. **Opportunities** These could be recognition of entities, people or existing activities that can add benefit quickly.
+5. **Challenges**  Identified challenges like time, resources, empowerment. Real issues, not imagined or bias from experience.
+6. **Dependencies** 
+
+
+As a group pick one problem statement you can agree fits this criteria:
+
+1. Realistic & actionable in the near future.
+2. Give strategic value to Mozilla.
+3. Provide value to volunteers.
+
+## Bring it home!
+
+Transfer your learning and agreement using this format.  There is a printable version here.
+
+| Field      |    Meaning      |  
+| ------------- |:-------------:| -----:|
+| Context      | Relevant Context, background and key facts 
+| Success Criteria     | How would you judge a successful solution?    
+| Stakeholders | Who are the contributors, potential community contacts, staff and users?     
+| Scope/Constraints | Scope/constraints     
+
+
