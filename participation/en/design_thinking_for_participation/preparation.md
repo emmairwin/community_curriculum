@@ -1,0 +1,23 @@
+#Workshop Preparation
+
+There are some key decisions and preparation work you should be aware of, and plan-for in advance of this workshop.
+
+## Inviting People
+[We’ve covered who this workshop can benefit](), but who else should you invite?  
+
+The answer is **anyone working on, or near Participation at Mozilla**: volunteers, staff of any confidence level, experience or curiosity.  **The more voices the better, the greater diversity - the better.**
+
+## Research
+
+You’re not expected to be the primary holder of all knowledge and wisdom in a given topic-area, or even an expert in Participation, but you do need to do your homework before you show up.  If you don't already: learn about the functional area, or main topic of focus for Participation.  
+
+* Read and document Wiki Pages web pages
+* Check out mailing lists and forums to grasp the current status and health of Participation. 
+* Reach out to contributors who might be interested in sharing stories or insight into what it means to contribute to that particular part of the project.  * Check out the [Marketpulse course ‘Interviewing Users for Mozilla’](http://education.mozilla-community.org/modules/marketpulse_activities/step_3/) to learn valuable skills in listening and note-taking.
+
+## Materials
+* Print Design Thinking Worksheet . It’s available in a few languages.  You may only need the first sheet depending on the [strategy you choose]().
+*Bring colorful markers or crayons so when people engage in solutions they feel they are in a creative environment.
+* Whiteboard or Flip-Chart to record notes and group observations.
+
+

@@ -7,6 +7,9 @@
 * Hi my name is [Ioana](https://ioana.makes.org/thimble/MTg0NDMxNDM2OA==/my-learning-participation-story)
 * Hi my name is [Elio](https://elioqoshi.makes.org/thimble/LTM4NzA1NTM2MA==/my-learning-participation-story)
 * Hi my name is [Vigneshwer](https://dvigneshwer.makes.org/thimble/NTAyMjAyNjI0/my-learning-participation-story)
+* Hi my name is [Akshay](https://twitter.com/Imnotakshay)
+* Hi my name is [Konstantina](https://reps.mozilla.org/u/couci/)
+
 
 
 Image Credit:  [Brian Snelson]()
