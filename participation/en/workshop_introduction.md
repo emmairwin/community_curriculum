@@ -29,6 +29,8 @@ Learning how to run creative, strategic and insightful workshops with outcomes i
 
 ![thesepeopleshould](https://farm4.staticflickr.com/3681/18952590119_b563b0e081_n.jpg)
 
+Photo Credit:  [Ioana](https://www.flickr.com/photos/ioana_cis)
+
 Self-identifying as a ‘Participation Expert’ is not a major criteria for running this workshop, but we suggest the following:
 
 #### Should have
