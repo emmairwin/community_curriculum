@@ -1,12 +1,12 @@
-#Designing for Participation
+#Design Thinking - for Participation at Mozilla
 
 ![mozsuccess](https://farm4.staticflickr.com/3934/15435620299_6473f04e8a_z.jpg)
 
 *image credit:* [Mozilla Europe](https://www.flickr.com/photos/mozillaeu/)
 
-## Setting up for Success
+Below are the steps to run this workshop, please read through this throughly, as **there are three separate routes you can take based on what you already know, or learn about your group** during introductions.
 
-###Workhop Introductions!
+##Workshop Introduction - Lets Go!
 
 If this is your first time running this workshop, or you appreciate a checklist for warming up and preparing your group, here is a suggested introductory workflow:
 
@@ -15,12 +15,14 @@ If this is your first time running this workshop, or you appreciate a checklist 
 * **Share your enthusiasm!** Encourage participants to embrace a fun, collaborative and creative experience!
 * Introduce and briefly touch on the 5 components of Design Thinking:
 **Empathy, Define, Ideate, Prototype, Test.**
-* Be clear that this course **can help people look both define and **solve for problems problem in a new and innovative ways**, or help ideate on ideas they may already have.
-* Provide scope: explain that you'll be woking in partners, materials and that some portions will be timed.  Comfort:  **there are no right answers, or perfection required**.
+* Be clear that this course will help people define and **solve for problems problem in a new and innovative ways**, or help ideate on ideas they may already have.
+* Provide scope: explain that you'll be woking in partners, what materials and that some portions will be timed.  
+* Provide comfort:  **there are no right answers, or perfection required**.
 
-### Icebreaker 
+## Icebreaker 
 
-This is an opportunity to gauge your group's strengths and where they need the most support, so YOU can decide which strategy & tools can best help them get there.
+This is an opportunity to gauge your group's strengths and where they need the most support or have energy to innovate.
+Practice empathy as you listen to the responses, as you'll be proposing a focus for the next part based on what you hear.
 
 **Conduct a quick round of introductions and conversation on success and scope will help set and manage expectations.** 
 
@@ -28,9 +30,11 @@ This is an opportunity to gauge your group's strengths and where they need the m
 * **If your group is > 15 and < 40**, do a round of introductions (name, from) and a Tweetable sentence that describes their Participation focus for this workshop.
 * **If your group is > 40 people**, do a round of introductions (name, from) and one word that describes their feeling about being in the workshop today. 
 
-### Agree on Participation Focus
+**Note: '<' means less than, and  '>' means greater than**
 
-As a result of the Icebreaker you can likely identify the type of group you're working with. Based on the suggestions below, identify the primary focus of the majority of people:
+## Agree on Participation Focus
+
+Based on the story telling introductions, try to identify the primary focus of your group:
 
 1. A group united around **a functional area perspective**. Described as a group of people who regularly work together on goals specific to a project.  
 2. A group united around a **common Participation function**. Examples would be: 'code contributors or QA'.
@@ -38,24 +42,24 @@ As a result of the Icebreaker you can likely identify the type of group you're w
 4. **The mixed bag**.  People with various backgrounds, interests and focus.
 5. A group focused on any of the above where **participants are a good mix of staff and volunteers**.
 
-It's likely you'll have some level of mixed participation, but use the majority  to define your group.  Voice your observation to the group, and have them agree with the assertion so you can move on to select your strategy.  
+It's likely you'll have some level of mixed participation, but **use the majority theme** to define your group.  Share your observation to the group, and have them agree with the assertion so you can move on to select your strategy.  
 
 **Tip**: For those who may not identify with the main theme, assure them that they are in the exact right place to learn strategies and emerge with skills and ideas that can lend to their more dedicated focus.
 
-### Select a Facilitation Strategy 
+## Select a Facilitation Strategy 
 
 Currently there are three versions of this workshop, for the identified scenarios, but we grateful accept alternate versions, edits and pull requests on items to help improve facilitation of human centered design for Participation.
 
-####For Focus #1, #2, #4
-  [Design Thinking for Participation (Full d.school Course)]()
+###For Focus #1, #2, #4
+  [Design Thinking for Participation (Full d.school Course)](/modules/participation_design_thinking/design_thinking_full/)
 
-####For Focus #3
-  [Design Thinking for Participation(Partial d.school Course & Group Focus)]()
+###For Focus #3
+  [Design Thinking for Participation(Partial d.school Course & Group Focus)](/modules/participation_design_thinking/design_thinking_group/)
   
-####For Focus #5
-  [Design Thinking for Participation(Community - Co-Design)]()
+###For Focus #5
+  [Design Thinking for Participation(Community - Co-Design)](/modules/participation_design_thinking/design_thinking_collaborative/)
 
-### Bring it home!
+## Bring it home!
 
 As a group pick one prototype/hypothesis (if you had more than one) you can agree fits this criteria:
 
@@ -64,7 +68,7 @@ As a group pick one prototype/hypothesis (if you had more than one) you can agre
 3. Provide value to volunteers.
 
 
-Transfer your learning and agreement using this format.  T
+Transfer your learning and agreement using this format, and agree on a way to share (email, posting on a wiki etc).
 
 | Field      |    Meaning      |  
 | ------------- |:-------------:| -----:|
@@ -77,7 +81,9 @@ Transfer your learning and agreement using this format.  T
 
 ## Wrap Up
 
-At this point, we tend have run out of time BUT if you do have time.  Go through your circle again, and ask people one thing they learned (could be a perspective of another person, or something about designing this way).
+At this point, we usually... have run out of time BUT if you do have time.  Go through your circle again, and ask people one thing they learned (could be a perspective of another person, or something about designing this way).
+
+Share your thoughts, experiences and ideas for [this workshop on Discourse](https://discourse.mozilla-community.org/t/design-thinking-for-mozilla-participation/2800).
 
    
 
