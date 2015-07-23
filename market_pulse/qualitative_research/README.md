@@ -1,1 +1,0 @@
-Qualitative Research Training
