@@ -29,7 +29,7 @@ Once you've finished the Design Thinking facilitation it's time to bring the gro
 
 As a group ask those who feel they have prototypes to share to do so now.  Capture on a whiteboard or flip-chart (so people can direct) capture trends, and 'bucket' accordingly so you can identify patterns that are emerging in the group.
 
-Ask key stakeholders, and others to weigh in on what they hard and together create a problem statement.  Set yourself no more than 10  minutes for this discussion.  
+Ask key stakeholders, and others to weigh in on what they heard and together create a problem statement.  Set yourself no more than 10  minutes for this discussion.  
 
 **Tip:**If people get off track, or insist on emphasis that's out of scope - then create another list called 'Parking Lot', to help people feel their interests are being respected without holding up the group.
 

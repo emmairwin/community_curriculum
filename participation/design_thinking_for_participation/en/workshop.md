@@ -53,6 +53,7 @@ Currently there are three versions of this workshop, for the identified scenario
 ###For Focus #5
   [Design Thinking for Participation(Community - Co-Design)]()
 
+## Bring it home!
 
 As a group pick one prototype/hypothesis (if you had more than one) you can agree fits this criteria:
 
@@ -60,7 +61,6 @@ As a group pick one prototype/hypothesis (if you had more than one) you can agre
 2. Give strategic value to Mozilla.
 3. Provide value to volunteers.
 
-## Bring it home!
 
 Transfer your learning and agreement using this format.  T
 
