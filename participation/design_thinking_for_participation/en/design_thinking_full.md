@@ -1,12 +1,11 @@
-#Design Thinking for Participation - Full d.school Course
-
+#Design Thinking for Participation 
 ![mozillians](https://farm4.staticflickr.com/3941/15622122962_f36afdd261_z.jpg)
 *image credit: [Mozilla in Europe](
 Mozilla in Europe)
 
-This strategy for Human Centered Design focused on Participation is preceded by the workshop introduction. Please ensure you have followed the steps outlined before beginning here.
+## Full d.school Course
 
-## Workshop
+This strategy for Human Centered Design focused on Participation is preceded by the workshop introduction. Please ensure you have followed the steps outlined before beginning here.
 
 ### Reinforce Outcome
 
@@ -20,7 +19,7 @@ With the 'Focus Statement' clearly articulated, it's time to get started.  Ask p
 
 Following the directions on the [d.school design sheet](http://dschool.stanford.edu/wp-content/uploads/2012/02/Participant-Worksheet.pdf) to bring your group to a final problem statement and prototype. **Run this course in it's entirety.**
 
-## Building and Documenting Consensus
+### Building and Documenting Consensus
 
 Once you've finished the Design Thinking facilitation it's time to bring the group's ideas into center.
 

@@ -1,10 +1,12 @@
-# Workshop  - Setting up for Success
+#Designing for Participation
 
 ![mozsuccess](https://farm4.staticflickr.com/3934/15435620299_6473f04e8a_z.jpg)
 
 *image credit:* [Mozilla Europe](https://www.flickr.com/photos/mozillaeu/)
 
-## Introductions!
+## Setting up for Success
+
+###Workhop Introductions!
 
 If this is your first time running this workshop, or you appreciate a checklist for warming up and preparing your group, here is a suggested introductory workflow:
 
@@ -16,7 +18,7 @@ If this is your first time running this workshop, or you appreciate a checklist 
 * Be clear that this course **can help people look both define and **solve for problems problem in a new and innovative ways**, or help ideate on ideas they may already have.
 * Provide scope: explain that you'll be woking in partners, materials and that some portions will be timed.  Comfort:  **there are no right answers, or perfection required**.
 
-## Icebreaker 
+### Icebreaker 
 
 This is an opportunity to gauge your group's strengths and where they need the most support, so YOU can decide which strategy & tools can best help them get there.
 
@@ -26,7 +28,7 @@ This is an opportunity to gauge your group's strengths and where they need the m
 * **If your group is > 15 and < 40**, do a round of introductions (name, from) and a Tweetable sentence that describes their Participation focus for this workshop.
 * **If your group is > 40 people**, do a round of introductions (name, from) and one word that describes their feeling about being in the workshop today. 
 
-## Agree on Participation Focus
+### Agree on Participation Focus
 
 As a result of the Icebreaker you can likely identify the type of group you're working with. Based on the suggestions below, identify the primary focus of the majority of people:
 
@@ -40,20 +42,20 @@ It's likely you'll have some level of mixed participation, but use the majority 
 
 **Tip**: For those who may not identify with the main theme, assure them that they are in the exact right place to learn strategies and emerge with skills and ideas that can lend to their more dedicated focus.
 
-## Select a Facilitation Strategy 
+### Select a Facilitation Strategy 
 
 Currently there are three versions of this workshop, for the identified scenarios, but we grateful accept alternate versions, edits and pull requests on items to help improve facilitation of human centered design for Participation.
 
-###For Focus #1, #2, #4
+####For Focus #1, #2, #4
   [Design Thinking for Participation (Full d.school Course)]()
 
-###For Focus #3
+####For Focus #3
   [Design Thinking for Participation(Partial d.school Course & Group Focus)]()
   
-###For Focus #5
+####For Focus #5
   [Design Thinking for Participation(Community - Co-Design)]()
 
-## Bring it home!
+### Bring it home!
 
 As a group pick one prototype/hypothesis (if you had more than one) you can agree fits this criteria:
 

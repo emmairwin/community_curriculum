@@ -1,7 +1,10 @@
-#Objectives
+#Design Thinking for Participation 
+
 ![worldwide](https://farm2.staticflickr.com/1389/963566003_33b48f3fff_z.jpg)
 
 *image credit: [Josh Bancroft](https://www.flickr.com/photos/joshb/)*
+
+##Workshop Objectives
 
 >"At Mozilla, we’re a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.” - mozilla.org
 
