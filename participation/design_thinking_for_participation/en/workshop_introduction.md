@@ -1,17 +1,18 @@
-# Design Thinking for Participation
+# Design Thinking - for Participation at Mozilla
 
 ![Stickynotes](https://csa-discourse-uploads.s3.amazonaws.com/63971ec9b662f7b799f2581a502ea93d313c178cad20_666x500.jpg)
 
 > If We Always Do What We Have Always Done Then We Will Always Get What We've Always Got 
-- Adam Urbanski
+
+ > -- Adam Urbanski
 
 ## Workshop Background & Introduction
 
-This resource provides content, tools and facilitation techniques needed to run a **'Participation at Mozilla' Design Thinking Workshop**. This workshop will help teams and contributors create empathetic problem statements and strong hypothesis for solving those problems through rapid prototyping. This process will equip participants with a new set of skills resulting in better quality experiments and ultimately improved strategic success on Mozilla's mission and project goals. 
+This resource provides content, tools and facilitation techniques needed to run a **'Participation at Mozilla' Design Thinking Workshop**.  The accompanying workshop can help teams and contributors create empathetic problem statements and strong hypothesis for solving Participation problems through rapid prototyping.
 
-This workshop borrows heavily from [d-school's Crash Course in Design Thinking](http://dschool.stanford.edu/dgift/) which is available under Creative Commons (CC BY-NC 3.0Licence). Working with human centered design guides our processes with empathy at the center of all we do. We believe that through collaboration, and by involving diverse perspectives while continually prototyping we move closer to better outcomes for Mozilla and volunteers.
+This workshop process will equip participants with a new set of skills, leading to better quality experiments and ultimately improved strategic success on Mozilla's mission and project goals. 
 
-The emphasis of this workshop is to increase the **participants awareness of the possible, probable and desirable futures for Participation**, to emerge with an attitude of 'prototyping in all we do' as well as an appreciation of key forces influencing the change we need.  
+We borrow heavily from [d-school's Crash Course in Design Thinking](http://dschool.stanford.edu/dgift/) which is available under Creative Commons ([CC BY-NC 3.0Licence](CC BY-NC 3.0Licence)). Web believe [human centered design](https://en.wikipedia.org/wiki/User-centered_design) will our  encourages better solutions for people, by ensuring empathy at the center of all we do.  
 
 ### Who should take this workshop?
 
@@ -33,7 +34,7 @@ Self-identifying as a ‘Participation Expert’ is not a major criteria for run
 
 #### Should have
 * Understanding of Design Thinking (you have minimally, taken the 90 minute [Design Thinking Crash Course](http://dschool.stanford.edu/dgift/)), or have been a participant in this workshop previously.
-* Some experience either working at Mozilla with volunteers, or volunteering at Mozilla or another open project.
+* Some experience either working with volunteers, or volunteering at Mozilla.
 * A belief that Participation provides strategic advantage to Mozilla, and lets us “punch above our weight”.
 * Understanding of regional community dynamics.
 * Invested interest in helping people.
