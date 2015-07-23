@@ -4,6 +4,8 @@
 *image credit: [Mozilla in Europe](
 Mozilla in Europe)*
 
+## d.school + Group-Focus
+
 This facilitation strategy for 'Human Centered Design for Participation is preceded by the [Workshop Outline](modules/participation_design_thinking/workshop/ )', and recommended for scenarios #3
 
 ## Reinforce Outcome

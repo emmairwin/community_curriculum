@@ -1,7 +1,11 @@
 #Design Thinking -  for Participation at Mozilla
+
+
 ![mozillians](https://farm4.staticflickr.com/3941/15622122962_f36afdd261_z.jpg)
 *image credit: [Mozilla in Europe](
 Mozilla in Europe)
+
+##Full d.school Workshop
 
 This facilitation strategy for 'Human Centered Design for Participation is preceded by the [Workshop Outline](modules/participation_design_thinking/workshop/ )', and recommended for scenarios #1, #2, #4 .
 

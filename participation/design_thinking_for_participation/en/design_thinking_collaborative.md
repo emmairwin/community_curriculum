@@ -4,6 +4,9 @@
 *image credit: [Andrew Garzia](
 https://www.flickr.com/photos/soapdog/)*
 
+
+## d.school + Collaborative (Staff & Volunteers)
+
 This facilitation strategy for 'Human Centered Design for Participation is preceded by the [Workshop Outline](modules/participation_design_thinking/workshop/ )', and recommended for scenario #5.
 
 The scope of focus can be related to functional areas (FFOS, Webmaker), function (code, QA, public speaking), or  skillset (Front-End development, Market Research) but the emphasis is on this opportunity for staff and volunteers to **gain empathy for each other as a route to truly innovative Participation solutions**.
