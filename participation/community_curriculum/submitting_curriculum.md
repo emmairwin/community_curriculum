@@ -4,7 +4,9 @@
 
 So you've come far!  You have some basic knowledge of the curriculum structure, the technical background and the components that are needed to complete a submission.  Lets wrap this up with the steps needed to submit your curriculum.
 
-If you are comfortable with Github you can submit a [pull request](https://help.github.com/articles/creating-a-pull-request/) of your content to the [curriculum repo](https://github.com/emmairwin/community_curriculum) without any additional information.   If you prefer to submit your content through [this form](), and we will submit the pull request on  your behalf.  This is where we will provide feedback, and inform you of decisions regarding your submission.
+If you are comfortable with Github you can submit a [pull request](https://help.github.com/articles/creating-a-pull-request/) of your content to the [curriculum repo](https://github.com/emmairwin/community_curriculum) without any additional information.  
+
+ If you prefer to submit your content through [this form](https://docs.google.com/forms/d/1XFkIdfwd4w5p8PnBJ8xffYB1eB2zgc0xNNWV3NGq2wU/viewform), and we will submit the pull request on  your behalf.  This is where we will provide feedback, and inform you of decisions regarding your submission.
 
 Here are some things to expect from here.
 
@@ -24,7 +26,6 @@ Based on the review  you’ll see one of two things happen: your submission will
 **If there are a lot of errors in format, content and structure then we will refer you back to this document before moving forward again.**
 
 ## Launching
-
 
 Once your curriculum has been approved, you will receive an update in the Github Issue and in an email notifying you of the launch date.  An update with community will be shared on community lists/forums and via the [@MozParticipate Twitter account](https://twitter.com/MozParticipate/).
 

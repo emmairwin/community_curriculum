@@ -15,17 +15,17 @@ All curriculum is hosted in our [Github Repo](https://github.com/emmairwin/commu
 ## Curriculum File Format
 
 
-All curriculum is written in Markdown (filename.md), and separated according the the file structure below. [Markdown](http://daringfireball.net/projects/markdown/basics) is super-easy to write. [There are many awesome editors](http://whatismarkdown.com/). 
+All curriculum is written in Markdown (filename.md), and separated according the the file structure below. [Markdown](http://daringfireball.net/projects/markdown/basics) is super-easy to write. [There are many awesome editors](http://whatismarkdown.com/). I use [this one for Mac](http://macdown.uranusjr.com/).
 
-If this feels like a barrier to your work, we will take submissions written in Google Docs (and we’ll convert to Markdown for you). 
+**If this feels like a barrier to your work, we will take submissions written in Google Docs (and we’ll convert to Markdown for you). We encourage you however** 
 
 
 # Curriculum Directory Structure
 
 
-The directory structure for all scenario #1 & 2 is the same.  With a hierarchy of 'Main Topic' with all content related to that topic which usually includes an introduction, and always contains a README and contribute file.
+The directory structure for scenario #1 & 2 is the same.  Top level is 'Main Focus/Project/Functional Area' with all content related to that topic at same level (introduction, contribute.md).
 
-Below main topic, one or more folders representing topics can exist organized by language.  We'll get describe each of the files, and provide templates a bit later on.
+Below top-level, is one or more folders representing topics can exist organized by language (en = English).  We'll get describe each of the files, and provide templates a bit later on.
 
 ![2](http://tiptoes.ca/scenerio.png) 
 
@@ -35,10 +35,10 @@ File names should be all lowercase, and clear to outcome topics( so we can make 
 
 # Self Assessment
 
-1. I can name the file format used for curriculum files including filename extension and how to find editors.
-2. If I'm not comfortable with the format standard, I know the alternative format.
+1. I can name the file format used for curriculum files including filename extension. I understand there are special editors that make editing curriculum super-easy.
+2. If I'm not comfortable with the format standard, I know the alternative ways I can submit content.
 3. I understand the file structure, even if I'm not quite sure how it relates to my content yet.
-4. I understand naming conventions.
+4. I understand naming conventions (how you name files).
 
 *****
 
