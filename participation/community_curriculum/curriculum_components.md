@@ -2,7 +2,15 @@
 
 ![components](https://farm8.staticflickr.com/7118/8160834324_94862c29db_b.jpg)
 
-Components make up your educational offering, and are represented by files as you saw in the technical requirements.   
+Components make up your educational offering, and are represented by files as you saw in the technical requirements. 
+
+### README.md
+
+The readme file contains basic information about your content, and content structure.  You can use [this]() template.
+
+### contribute.md  
+
+Is an important way to engage contributors to your content, by explaining ways to get involved improving or submitting new content. You can use [this template]().
 
 ### Introduction.md
 
@@ -14,7 +22,7 @@ Here is a template based on the [Marketpulse introduction](http://education.mozi
 
 For your topic area it's a good chance to dig into the lesson or workshop outcomes, identify any pre-requisites, required resources and other details you think are relevant to inform.
 
-#### *Note on Qualities
+#### Note on Qualities
 ![qualities](http://content.screencast.com/users/sunnydeveloper/folders/Jing/media/05525190-3dce-4876-a2e9-65a41c8dde3b/00000396.png)
 If you would like to add qualities to the introduction, as Marketpulse has, you can indicate that in the submission form. Later on I'll make this easier to do yourself.
 

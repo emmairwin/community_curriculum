@@ -29,7 +29,7 @@ Below main topic, one or more folders representing topics can exist organized by
 
 ![2](http://tiptoes.ca/scenerio.png) 
 
-##Naming Conventions
+## Naming Conventions
 
 File names should be all lowercase, and clear to outcome topics( so we can make easy guesses about purpose by looking at files).  Use .md for Markdown files, and separate words by underscores.  i.e.:  my_topic.md
 

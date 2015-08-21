@@ -28,6 +28,10 @@ Based on the review  you’ll see one of two things happen: your submission will
 
 Once your curriculum has been approved, you will receive an update in the Github Issue and in an email notifying you of the launch date.  An update with community will be shared on community lists/forums and via the [@MozParticipate Twitter account](https://twitter.com/MozParticipate/).
 
+## Post - Launch
+
+* Ensure your contribute.md is up to date with paths to your issue-tracker, and ways to help test content, and participate.
+
 ## Maintenance
 
 If you want to make changes to your account, there are a number of ways to accomplish that.  The first is to make the change yourself and submit it as a pull request, the second is to create an issue so that we, or someone in the community can make that change for you.  If you need to make significant changes or structural modifications, then an email to me can start the conversation and problem-solve the next steps
