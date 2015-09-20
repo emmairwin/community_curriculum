@@ -1,4 +1,5 @@
 #Supercharge Your Community!
+![](https://c1.staticflickr.com/5/4140/4936872846_99c3856bfb.jpg)
 
 > Empathy is not taught, it's caught' - Mary Ross Founder of Roots of Empathy.
 > 
@@ -30,42 +31,33 @@ Anyone interested in building community, or already working with community who w
 
 ### Persona 
 
-Personas to identify and design meaningful opportunity for people in our community.  Thinking about who we are designing for, what they want to do, and how we can make them successful generates greater quality of work and a sustained model of Participation.
+Personas to identify and design meaningful opportunity for people in our community.  Thinking about who we are designing for, what they want to do, and how we can make them successful generates greater quality of work and a sustained model of Participation. It helps to refer to Personas by name when you're discussing contribution opportunities vrs a generic 'contributor'.
+
+![](images/daphne.png)
 
 ### Participation Steps
 
 Steps are a way of designing the experience of community contribution.  What this means is, instead of thinking in 'tasks', we think about *opportunities* presenting in taking a specific action.  For that action we ask ourselves a serious of questions to ensure the experience has depth.
 
-Questions might be.  How does someone know when they are successful?  What skill will someone gain or improve on through the experience? How does this help the project?  Should we provide training?
+Attributes of a step might vary from project to project, but here described here are the minimum considerations.
 
-#### TODO Sample Step
+* Benefit to contributor
+* Benefit to project
+* What needs to be in place
+* How someone knows they are successful
+* Contributor action items
 
-### Pathway  
+### Sample Step
 
-Participation pathways, like sidewalks can take someone from a starting point, to the place they want to go.  When designing pathways for community we likewise need to understand the points of entry, and the potential destination.
+![step example](images/step.png)
+
+
+### Pathway / Ladder
+
+![pathway](images/pathway.png)
+
+Participation pathways, like sidewalks can guide someone from a starting point, to the place they want to go.  When designing pathways for community we likewise need to understand and design the points of entry, to the potential of sustained particiaption.
 
 This isn't to say that there we are designing with rigidness, but rather being deliberate about the depth of each step as well as the journey.
-
-###TODO Sample pathway
-
-## Activity #1
-
-Partner participants in pairs based on similarity of interests, background or knowledge.   Assuming this is known, otherwise use a round of introductions to bring out themes: 
-
- >“Hi my name is ______ and my community goal is”. 
- 
-Ask participants to self-organize into pairs based on what resonated with them about someone else’s goal or project. 
-
-### Persona Interviews
-Note: facilitator will need to time interview questions.
-
-The goal of these interviews is to start gaining an understanding for the Personas in your shared communities, and to gain empathy for their experience in your community.  For each of these questions Partner A will interview Partner B, and have one minute per question.  
-
-* **Q1** Who is in your community? How would you describe the range of people in your community?
-* **Q2** What kind of person do you most need in your community right now, in a year from now?
-* **Q3** Pick one person, and imagine: what does that person get excited about, and why? What might they find challenging or discouraging, and why?
-* **Q4** Who have you lost or are missing, and why do you think that person left the community?
-
-
 
 
