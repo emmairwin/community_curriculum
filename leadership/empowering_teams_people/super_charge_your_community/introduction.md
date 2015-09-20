@@ -33,7 +33,7 @@ Anyone interested in building community, or already working with community who w
 
 Personas to identify and design meaningful opportunity for people in our community.  Thinking about who we are designing for, what they want to do, and how we can make them successful generates greater quality of work and a sustained model of Participation. It helps to refer to Personas by name when you're discussing contribution opportunities vrs a generic 'contributor'.
 
-![](images/daphne.png)
+![](images/daphne.png) 
 
 ### Participation Steps
 
