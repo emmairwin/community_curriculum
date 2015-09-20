@@ -1,4 +1,5 @@
-![](https://c2.staticflickr.com/4/3893/14708038406_7dfc461b46.jpg)
+![](https://c2.staticflickr.com/4/3893/14708038406_7dfc461b46_z.jpg)
+
 Partner participants in pairs based on similarity of interests, background or knowledge.   Assuming this is known, otherwise use a round of introductions to bring out themes: 
 
  >“Hi my name is ______ and my community goal is”. 
