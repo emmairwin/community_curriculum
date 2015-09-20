@@ -1,4 +1,4 @@
-![](https://c2.staticflickr.com/8/7189/6834141860_6d05427d61.jpg)
+![](https://c2.staticflickr.com/4/3118/2911339921_3754949c05_z.jpg)
 
 In the same pairs, ask participants take one of their emerging and important personas and interview each other with the following questions.
 
@@ -26,5 +26,7 @@ Provide partners with [step templates](assets/steptemplate.pdf), and explain eac
 * **How someone knows they are successful** Don't assume, contributors know - what clarity will be built in to trigger recognition of success.
 * **Action Items**: What actions does this person need to take within this step?  Might be login to Bugzilla, assign a task to themselves, introduce themselves on a forum etc. 
 
+------
+Image Credit: [Andreas Levers](https://c2.staticflickr.com/4/3118/2911339921_3754949c05_z.jpg)
 
 

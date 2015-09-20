@@ -33,6 +33,10 @@ Ask partners to spend 4 minutes categerizing their notes under the following cat
 
 These are our emerging Personas.  Give teams another 4 minutes to find one or two Personas and to document them using this template.
 
+-------
+Image Credit: [
+Matthias Ripp
+](https://c2.staticflickr.com/4/3893/14708038406_7dfc461b46_z.jpg)
 
 
 
