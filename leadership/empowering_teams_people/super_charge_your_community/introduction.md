@@ -14,7 +14,7 @@ This fast-paced workshop helps community leaders gain empathy for their communit
 
 Participants will **learn** best practices for designing personas and pathways in their communities.
 
-Participants will **make** Personas and Participation Pathways
+Participants will **design** their own Personas and Participation Pathways for their project/community.
 
 Participants will **share** their findings, and collaborate on ideas with others in their group.
 
