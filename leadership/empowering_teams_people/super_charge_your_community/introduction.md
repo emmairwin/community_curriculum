@@ -6,7 +6,7 @@
 
 ## About This Workshop
 
-This workshop falls under 'Empowering Teams and People' one of our identified building blocks for a [Participation Leadership Framework (v.1)](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png)
+This workshop falls under 'Building for Action and Impact' one of our identified building blocks for a [Participation Leadership Framework (v.1)](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png)
 
 This fast-paced workshop helps community leaders gain empathy for their community, whether they are just starting to grow a contributor base, or evaluating successes and struggles of the existing. A series of activities will help participants define and co-create the first successful steps of a contributor pathway.
 
