@@ -81,4 +81,7 @@ This isn't to say that there we're designing with rigidness, but rather being de
 
 The potential of using pathways is that you can design more than one, which have the potential to intersect. We will not be covering multiple pathways in **this workshop**.
 
+======
+
+Image Credit : [Ian Sane](https://www.flickr.com/photos/31246066@N04/)
 
