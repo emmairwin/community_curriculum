@@ -46,7 +46,7 @@ Anyone interested in building community, or already working with community who w
 
 Personas are identified contributor-types in the community.  We bring them to life by thinking about their needs, wants, struggles and ambitions and refer to them by name when identifying and designing meaningful contribution opportunity.  Thinking about who we are designing for, what they want to do, and how we can make them successful generates greater quality of work and a sustained model of Participation. 
 
-![daphne](images/daphne.png) 
+![daphne](images/Daphne.png) 
 
 ### Participation Steps
 
