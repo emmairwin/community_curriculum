@@ -1,27 +1,30 @@
 ![](https://c2.staticflickr.com/4/3893/14708038406_7dfc461b46_z.jpg)
 
+## Persona Design
+
 Partner participants in pairs based on similarity of interests, background or knowledge.   Assuming this is known, otherwise use a round of introductions to bring out themes: 
 
  >“Hi my name is ______ and my community goal is”. 
  
 Ask participants to self-organize into pairs based on what resonated with them about someone else’s goal or project. 
 
-## Persona Interviews
+**Note**: Let people know the next activities will be timed. People will feel rushed, but that's OK - this is a creative process, encourage them to surface what feels important, and meaningful, but also to share inklings of ideas, and hunches as well.  
 
-The goal of these interviews is to recognize  of the Personas in shared communities, and to gain empathy for their experience.  For each of these questions 
+## Persona Interviews (8 minutes)
 
-**Format:** Partner A will interview Partner B, and have one minute per question. Then Partner B will interview Partner A on the same question. Faciltator times. Ask participants to record as many important themes, ideas, and things of interest as they can on sticky notes.
+The goal of these interviews is to recognize similar personalities, amibitions, motivations and skills between communities - to gain empathy for why people turn up, and where they hope to go.  For each of these questions 
 
-People will feel rushed, but that's OK - this is a creative process, encourage them to surface what feels important, and meaningful, but also to share inklings of ideas, and hunches as well.
+**Format:** *Partner A will interview Partner B*, and have one minute per question. Then *Partner B will interview Partner A* on the same question. Ask participants to record as many important themes, ideas, and things of interest as they can on sticky notes.
 
 * **Q1** Who is in your community? How would you describe the range of people in your community?
 * **Q2** What kind of person do you most need in your community right now, in a year from now?
 * **Q3** Imagine: what does that person get excited about, and why? What might they find challenging or discouraging, and why?
 * **Q4** Who have you lost or are missing, and why do you think that person left the community?
 
-**Categorize**
+### Categorize ( 5 minutes )
 
-Ask partners to spend 4 minutes categerizing their notes under the following categories:
+**Categorize**
+Ask partners to spend 5 minutes categerizing their notes under the following categories:
 
 * Skills
 * Motivation
@@ -29,9 +32,8 @@ Ask partners to spend 4 minutes categerizing their notes under the following cat
 * Attitudes
 * Need
 
-*Note: Facilitators should prepare these categories via sticky note headers for Particpants ahead of time.
+Ask them to identify one strong Persona emerging from the excercise, to give them a name, age, location, 'sense of belonging', and profession.  [They can use this template]().  We will use our Persona names moving forward.
 
-These are our emerging Personas.  Give teams another 4 minutes to find one or two Personas and to document them using this template.
 
 -------
 Image Credit: [

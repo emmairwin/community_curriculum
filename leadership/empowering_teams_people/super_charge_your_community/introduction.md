@@ -10,9 +10,22 @@ This workshop falls under 'Empowering Teams and People' one of our identified bu
 
 This fast-paced workshop helps community leaders gain empathy for their community, whether they are just starting to grow a contributor base, or evaluating successes and struggles of the existing. A series of activities will help participants define and co-create the first successful steps of a contributor pathway.
 
+## Learn / Make / Share
+
+Participants will **learn** best practices for designing personas and pathways in their communities.
+
+Participants will **make** Personas and Participation Pathways
+
+Participants will **share** their findings, and collaborate on ideas with others in their group.
+
+
+## Format
+
+This workshop is optimized for a fast-paced hour.  However, you can easily increase alotted times and run the same workshop as a half day event.  
+
 ### Audience
 
-Anyone interested in building community, or already working with community who want to better identify and design for their successful participation.  Example Audiences:
+Anyone interested in building community, or already working with community who want to better identify Personas and design for their successful participation.  Example Audiences:
 
 * Open Science Project Leader
 * Mozilla Clubs Regional Community Coordinator
@@ -31,21 +44,23 @@ Anyone interested in building community, or already working with community who w
 
 ### Persona 
 
-Personas to identify and design meaningful opportunity for people in our community.  Thinking about who we are designing for, what they want to do, and how we can make them successful generates greater quality of work and a sustained model of Participation. It helps to refer to Personas by name when you're discussing contribution opportunities vrs a generic 'contributor'.
+Personas are identified contributor-types in the community.  We bring them to life by thinking about their needs, wants, struggles and ambitions and refer to them by name when identifying and designing meaningful contribution opportunity.  Thinking about who we are designing for, what they want to do, and how we can make them successful generates greater quality of work and a sustained model of Participation. 
 
 ![daphne](images/daphne.png) 
 
 ### Participation Steps
 
-Steps are a way of designing the experience of community contribution.  What this means is, instead of thinking in 'tasks', we think about *opportunities* presenting in taking a specific action.  For that action we ask ourselves a serious of questions to ensure the experience has depth.
+Steps are a way of designing community contribution one experience at a time.  What this means is, instead of talking about 'work or tasks', we think about *opportunities and challenges* presented in specific actions for both project and person when they take an action to contribute.  For each action we ask ourselves a series of questions to ensure the experience has depth.
 
 Attributes of a step might vary from project to project, but here described here are the minimum considerations.
 
+* Prerequisite Step   
 * Benefit to contributor
 * Benefit to project
 * What needs to be in place
 * How someone knows they are successful
 * Contributor action items
+* Potential next-step
 
 ### Sample Step
 
@@ -56,8 +71,14 @@ Attributes of a step might vary from project to project, but here described here
 
 ![pathway](images/pathway.png)
 
-Participation pathways, like sidewalks can guide someone from a starting point, to the place they want to go.  When designing pathways for community we likewise need to understand and design the points of entry, to the potential of sustained particiaption.
+Participation pathways (we sometimes call them ladders as well), like actual paths guide someone from a starting point, to the place they want to go, or can potential go.
 
-This isn't to say that there we are designing with rigidness, but rather being deliberate about the depth of each step as well as the journey.
+Pathways always start with an identified entry point, and an end point which represents the potential for sustained participation. 
+
+This isn't to say that there we're designing with rigidness, but rather being deliberate about the depth of each step as well as the journey.  
+
+#### Multiple Pathways
+
+The potential of using pathways is that you can design more than one, which have the potential to intersect. We will not be covering multiple pathways in **this workshop**.
 
 
