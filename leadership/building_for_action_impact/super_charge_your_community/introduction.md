@@ -6,7 +6,7 @@
 
 ## About This Workshop
 
-This workshop falls under 'Empowering Teams and People' one of our identified building blocks for a [Participation Leadership Framework (v.1)](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png)
+This workshop falls under 'Building for Action and Impact' one of our identified building blocks for a [Participation Leadership Framework (v.1)](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png)
 
 This fast-paced workshop helps community leaders gain empathy for their community, whether they are just starting to grow a contributor base, or evaluating successes and struggles of the existing. A series of activities will help participants define and co-create the first successful steps of a contributor pathway.
 
@@ -14,7 +14,7 @@ This fast-paced workshop helps community leaders gain empathy for their communit
 
 Participants will **learn** best practices for designing personas and pathways in their communities.
 
-Participants will **make** Personas and Participation Pathways
+Participants will **design** their own Personas and Participation Pathways for their project/community.
 
 Participants will **share** their findings, and collaborate on ideas with others in their group.
 
@@ -81,4 +81,7 @@ This isn't to say that there we're designing with rigidness, but rather being de
 
 The potential of using pathways is that you can design more than one, which have the potential to intersect. We will not be covering multiple pathways in **this workshop**.
 
+======
+
+Image Credit : [Ian Sane](https://www.flickr.com/photos/31246066@N04/)
 
