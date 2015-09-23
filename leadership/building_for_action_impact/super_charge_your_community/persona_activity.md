@@ -21,18 +21,10 @@ The goal of these interviews is to recognize similar personalities, amibitions, 
 * **Q3** Imagine: what does that person get excited about, and why? What might they find challenging or discouraging, and why?
 * **Q4** Who have you lost or are missing, and why do you think that person left the community?
 
-### Categorize ( 5 minutes )
+### Build Personas ( 5 minutes )
 
-**Categorize**
-Ask partners to spend 5 minutes categerizing their notes under the following categories:
 
-* Skills
-* Motivation
-* Challanges
-* Attitudes
-* Need
-
-Ask them to identify one strong Persona emerging from the excercise, to give them a name, age, location, 'sense of belonging', and profession.  [They can use this template]().  We will use our Persona names moving forward.
+Ask them to identify one strong Persona emerging from the excercise, using  [this template]().  We will use our Persona names moving forward, to help personalize our pathways.
 
 
 -------

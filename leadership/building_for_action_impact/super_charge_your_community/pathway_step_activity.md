@@ -20,9 +20,9 @@ Ask participants to spend 2 minutes categorizing their findings into groups of s
 
 Ask each pair to map their findings along a pathway or progression by asking these questions together.
 
-> How might we bring our persona, as they arrive in our community 3 steps closer to the potenial of their participation which is _______ ?
+> How might we bring our persona, as they arrive in our community closer to the potenial of their participation which is _______ ?
 
-Provide partners with [step templates](assets/steptemplate.pdf), and explain each attribute.
+Provide partners with [step templates](assets/steptemplate.pdf), and explain each attribute. Ask them to design one step. If time or enthusiasm allows, hey they can continue but really invest understanding the first step.
 
 * **Prerequiste** What should this person know or do before starting this pathway?
 * **Value to contributor**: What opportunity exists for this person if they complete a step?  Examples might be learn a skill, recieve mentorship, perhaps their name will be mentioned in a public post (encourage empathy we've built to respond here) , 

@@ -36,9 +36,9 @@ Anyone interested in building community, or already working with community who w
 ### Materials
 
 * Sticky Notes
-* Persona Template
-* Step Template
-* Pathway Example
+* [Persona Template]()
+* [Step Template]
+* [Pathway Example]()
 
 ## Terminology
 
