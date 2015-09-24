@@ -5,6 +5,7 @@ This will workshop will facilitate a connection to your authentic Mozillian self
 ## Components
 
 * [Your Mozilla Identity]()
+* *
 * [Bridges and Connections - Identifying audiences]()
 * [Goal Setting for Reputation]()
 * [Designing Community Credentials]( ("Hacker Creds") )
