@@ -4,9 +4,8 @@ This will workshop will facilitate a connection to your authentic Mozillian self
 
 ## Components
 
-* [Your Mozilla Identity]()
-* *
-* [Bridges and Connections - Identifying audiences]()
+* Your Tech Identity
+* [Bridges and Connections - Identifying audiences & Allies]()
 * [Goal Setting for Reputation]()
 * [Designing Community Credentials]( ("Hacker Creds") )
 
@@ -16,10 +15,11 @@ This workshop falls under 'Empowering Teams and People' one of our identified bu
 
 ## Format
  
+Participants will be organized into partners, where they will interview each other on topics that draw out strengths goals and ambitions which will help inform the designing of community credentials.
 
 ## Audience
 
-Anyone planning to, or already interacting on behalf of Mozilla in developer communities asround the world.
+Anyone planning to, or already interacting on behalf of Mozilla in developer communities around the world.
 
 * Tech Speakers
 * Mozilla Reps
@@ -28,9 +28,12 @@ Anyone planning to, or already interacting on behalf of Mozilla in developer com
 
 ## Materials
 
-* Credentials Template
+* [Credentials Template]()
 
 ## Terminology
 
+### Credentials
+
+Credentials are those things
 
 
