@@ -12,10 +12,9 @@ Participants should be partnered and for purposes of facilitation each person sh
 
 Each partner will interview the other on a series of timed questions as directed by the facilitator. Participants should keep notes as they listen, and be encouraged to ask 'why' often.
 
-If this is run online ask partners to decide on an alternate video or hangout room for interviews, and a way to communicate questions.
+If this online ask partners to decide on an alternate video or hangout room for interviews, and a way to communicate questions. (IRC channel for example)
 
 #### Questions ( 1 minute each)
-
 
 * Q1. Where can I find you at Mozilla and why ?
 * Q2. What skills and knowledge have you gained as part of being in the Mozilla community? 
