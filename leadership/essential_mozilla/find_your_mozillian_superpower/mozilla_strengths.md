@@ -1,4 +1,5 @@
 
+![f](https://c2.staticflickr.com/8/7528/15580222257_5f03b5d6d6_z.jpg)
 #Interviews
 
 For each set of questions below ask partners to interview each other for one minute each, drawing out and documenting thoughts,  ideas and even hunches about what might benefit this Mozillian in thinking about their desire pathway for participation at Mozilla.
@@ -26,7 +27,7 @@ Ask participants to take two minutes each to categorize what you've learned abou
 
 Ask participants to draw out from the conversations where they are right now.  What represents this place in time for the participant, and then looking at the themes in their participation look for a goal that can be reached in a year.   Use the desire pathway template to plot these as starting and end points.
 
-## Steps
+## Desire Pathways - Step by Step
 
 Using this example ask participants to plot six steps that will bring them  closer to their destination.
 More on this....
