@@ -6,17 +6,6 @@ Using the findings from our interview series, we'll design credentials that feel
 
 These credentials are affirmation of what the participant has shared about their strengths and ambitions, but also a reflection of their potential. 
 
-## Components
-
-* Goal Setting for Repulation
-* Your Mozilla Identity (moidentity)[mozilla_identity.md]
-
-* [Designing Community Credentials]( ("Hacker Creds") )
-
-## Materials
-
-* [Community Credentials Template](https://d157rqmxrxj6ey.cloudfront.net/sunnydeveloper/16235/)
-
 ## About This Workshop
 
 This workshop falls under 'Empowering Teams and People' one of our identified building blocks for a [Participation Leadership Framework (v.1)](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png)
