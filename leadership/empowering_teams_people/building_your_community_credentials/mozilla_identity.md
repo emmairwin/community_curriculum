@@ -47,9 +47,9 @@ Encourage interviewers to ask 'why' often, and to dig into interesting hunches o
 ## Building Community Credentials 
 
 
-Ask participants to imagine they are building their partners credentials for the inspirational figured their partners described. Working together have partners fill in the following:
+Ask participants to imagine they are building their partners credentials for the inspirational figured their partners described. Working together have partners fill in the following including a goal to bring up their credentials.:
 
-This certifies that ____________________ is very knowledgeable on topics of _____________________ , inspiration to others in ______________________ and has the respect of _____________________ at Mozilla and beyond!
+This certifies that ____________________ is very knowledgeable on topics of _____________________ , inspiration to others in ______________________ and has the respect of _____________________ .  To continue building credentials the next stop is ________________________.
 
 If there is time, ask partners to share each others credentials with the group.
 
