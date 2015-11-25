@@ -3,7 +3,6 @@ title: Super Charge Your Community
 ---
 
 hello
-=====
 ```
-{% include test.md %}
+{% gist 5555251 %}
 ```
