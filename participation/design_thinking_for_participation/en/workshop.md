@@ -51,13 +51,13 @@ It's likely you'll have some level of mixed participation, but **use the majorit
 Currently there are three versions of this workshop, for the identified scenarios, but we grateful accept alternate versions, edits and pull requests on items to help improve facilitation of human centered design for Participation.
 
 ###For Focus #1, #2, #4
-  [Design Thinking for Participation (Full d.school Course)](/modules/participation_design_thinking/design_thinking_full/)
+  Design Thinking for Participation (Full d.school Course): Workshop 1
 
 ###For Focus #3
-  [Design Thinking for Participation(Partial d.school Course & Group Focus)](/modules/participation_design_thinking/design_thinking_group/)
+  Design Thinking for Participation(Partial d.school Course & Group Focus): Workshop 2
   
 ###For Focus #5
-  [Design Thinking for Participation(Community - Co-Design)](/modules/participation_design_thinking/design_thinking_collaborative/)
+  Design Thinking for Participation(Community - Co-Design) Workshop 3
 
 ## Bring it home!
 
