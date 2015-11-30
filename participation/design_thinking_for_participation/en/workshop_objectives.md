@@ -1,4 +1,4 @@
-#Design Thinking - for Participation at Mozilla
+
 
 ![worldwide](https://farm2.staticflickr.com/1389/963566003_33b48f3fff_z.jpg)
 
