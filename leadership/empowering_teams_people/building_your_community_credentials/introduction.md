@@ -1,4 +1,4 @@
-#A Bold Leap - Building your Community Credentials (Technical Contributor)
+#A Bold Leap - Building your Community Credentials
 
 This workshop will facilitate a connection to your authentic Mozillian self while exploring your identity beyond the community as a technical ambassador. How you can lead more confidently, develop your credibility in the larger tech community.
 
