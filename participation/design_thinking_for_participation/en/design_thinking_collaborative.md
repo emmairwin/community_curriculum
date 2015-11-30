@@ -1,4 +1,4 @@
-#Design Thinking - for Participation at Mozilla
+
 
 ![mozillians](https://farm1.staticflickr.com/482/19465862402_9df2b30ff6_c.jpg)
 *image credit: [Andrew Garzia](
