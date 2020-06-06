@@ -23,7 +23,7 @@ Before starting the full d.school course, reinforce the outcomes you're after:
 
 With the 'Focus Statement' clearly articulated, it's time to get started.  Ask people to pair up, if there is hesitation then pair people in the way you think most makes sense from your observations. Hand out the D-School worksheet(which you [prepared](modules/participation_design_thinking/workshop_preparation/) in the preferred language prior to the workshop).
 
-Following the directions on the [d.school design sheet](http://dschool.stanford.edu/wp-content/uploads/2012/02/Participant-Worksheet.pdf) to bring your group to a final problem statement and prototype. **Run this course in it's entirety.**
+Following the directions on the [d.school design sheet](https://i.pinimg.com/564x/b2/da/cb/b2dacbee4cf932fcb604950698a37e95.jpg) to bring your group to a final problem statement and prototype. **Run this course in it's entirety.**
 
 ### Building and Documenting Consensus
 
